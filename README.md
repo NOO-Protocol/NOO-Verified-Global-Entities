@@ -1,4 +1,4 @@
-# 🌐 NOO-Verified-Global-Entities (NOO 验证全球实体注册局)
+# 🌐 NOO-Verified-Global-Entities (NOO全球商业注册实体)
 
 ![NOO Protocol](https://img.shields.io/badge/Protocol-NOO_v3.0-blue?style=for-the-badge)
 ![Update Frequency](https://img.shields.io/badge/Update-Daily_Rolling-success?style=for-the-badge)
