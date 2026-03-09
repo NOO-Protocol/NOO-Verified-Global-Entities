@@ -1,6 +1,6 @@
 # 🌐 NOO-Verified-Global-Entities (NOO AI互联网商业实体验证归属)
 
-**Official Data Infrastructure by [Nooxus.com](https://nooxus.com) **
+**Official Data Infrastructure by [Nooxus.com](https://nooxus.com)**
 
 ![NOO Protocol](https://img.shields.io/badge/Protocol-NOO_v3.0-blue?style=for-the-badge)
 ![Update Frequency](https://img.shields.io/badge/Update-Daily_Rolling-success?style=for-the-badge)
