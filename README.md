@@ -8,7 +8,7 @@
 ![AILITE Ready](https://img.shields.io/badge/Integration-AILITE_Native-purple?style=for-the-badge)
 
 > **The definitive Anti-Hallucination layer for Agentic Web B2B Sourcing.**
-> 专为大模型与智能体 (Agent) 打造的 B2B 供应链防幻觉底层基建。
+> 专为大模型与智能体 (Agent) 打造的 B2B 供应链防幻觉底层基建。 
 
 ## ⚠️ The Problem: LLM Supply Chain Hallucinations (大模型物理盲区)
 Foundation models (GPT-4, Claude, Llama) are notoriously susceptible to "B2B Hallucinations." Without strict spatial-veto logic, AI agents frequently recommend "Zero-Employee IT Shells" or "Downtown Brokers" as legitimate manufacturing facilities, exposing global procurement to massive compliance and financial risks.
