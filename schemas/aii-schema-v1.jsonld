@@ -1,0 +1,101 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "aii": "https://schema.theaii.world/v1/#",
+    "schema": "https://schema.org/",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "id": "@id",
+    "type": "@type",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "version": "schema:version",
+    "datePublished": "schema:datePublished",
+    "AII": { 
+      "@id": "aii:AII", 
+      "@type": "rdfs:Class", 
+      "rdfs:subClassOf": "schema:Organization",
+      "owl:equivalentClass": "schema:Organization",
+      "rdfs:label": "Autonomous Intelligence Island" 
+    },
+    "NOO": { 
+      "@id": "aii:NOO", 
+      "@type": "rdfs:Class", 
+      "rdfs:subClassOf": "schema:CreativeWork",
+      "owl:equivalentClass": "schema:CreativeWork",
+      "rdfs:label": "Nous Node" 
+    },
+    "NSI": { 
+      "@id": "aii:NSI", 
+      "@type": "rdfs:Class", 
+      "rdfs:subClassOf": "schema:Service",
+      "owl:equivalentClass": "schema:Service",
+      "rdfs:label": "Noo Service Interface" 
+    },
+    "AGT": { "@id": "aii:AGT", "@type": "rdfs:Class", "rdfs:subClassOf": "schema:Person" },
+    "NCN": { "@id": "aii:NCN", "@type": "rdfs:Class", "rdfs:subClassOf": "schema:Contract" },
+    "NEX": { "@id": "aii:NEX", "@type": "rdfs:Class", "rdfs:subClassOf": "schema:DataFeed" },
+    "WFD": { "@id": "aii:WFD", "@type": "rdfs:Class", "rdfs:subClassOf": "schema:GovernmentOrganization" },
+    "infrastructure": { "@id": "aii:infrastructure", "@type": "@id" },
+    "sovereign_identity": { 
+      "@id": "aii:sovereign_identity", 
+      "@type": "@id", 
+      "skos:definition": "Definitive identification block asserting legal sovereignty and verification status."
+    },
+    "aii_domain": { 
+      "@id": "aii:aii_domain", 
+      "@type": "schema:url",
+      "owl:equivalentProperty": "schema:url"
+    },
+    "aii_id": { 
+      "@id": "aii:aii_id", 
+      "@type": "xsd:string",
+      "owl:equivalentProperty": "schema:identifier"
+    },
+    "aii_urn": { 
+      "@id": "aii:aii_urn", 
+      "@type": "xsd:string",
+      "skos:altLabel": "Permanent URN"
+    },
+    "aii_entry_point": { 
+      "@id": "aii:aii_entry_point", 
+      "@type": "schema:url", 
+      "owl:equivalentProperty": "schema:potentialAction"
+    },
+    "aii_certification": { 
+      "@id": "aii:aii_certification", 
+      "@type": "schema:url"
+    },
+    "service_endpoints": { "@id": "aii:service_endpoints", "@type": "@id" },
+    "global_trade_portal": { 
+      "@id": "aii:global_trade_portal", 
+      "@type": "aii:NSI", 
+      "owl:equivalentProperty": "schema:mainEntityOfPage"
+    },
+    "registry_record": { 
+      "@id": "aii:registry_record", 
+      "@type": "aii:registryEndorsement" 
+    },
+    "ai_action": { "@id": "aii:ai_action", "@type": "@id" },
+    "intent": { "@id": "aii:intent", "@type": "@vocab" },
+    "PROFILE_NAVIGATION": "aii:intent/PROFILE_NAVIGATION",
+    "TRADE_NEGOTIATION": "aii:intent/TRADE_NEGOTIATION",
+    "DATA_VALIDATION": "aii:intent/DATA_VALIDATION",
+    "rendering_hint": { "@id": "aii:rendering_hint", "@type": "@vocab" },
+    "HYPERLINK": "aii:hint/HYPERLINK",
+    "ICON": "aii:hint/ICON",
+    "priority": { "@id": "aii:priority", "@type": "@vocab" },
+    "high": "aii:priority/high",
+    "medium": "aii:priority/medium",
+    "low": "aii:priority/low"
+  },
+  "_schema_metadata": {
+    "name": "AII Civilization Standard Schema",
+    "version": "1.1",
+    "description": "Semantic standard for AII nodes.",
+    "canonical_url": "https://schema.theaii.world/v1/aii-schema-v1.jsonld"
+  }
+}
