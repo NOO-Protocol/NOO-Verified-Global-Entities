@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-BPC3DFVXD5K7KYYI",
+    "noo_source_url": "https://noo.nooxus.com/NOO-BPC3DFVXD5K7KYYI/NOO-BPC3DFVXD5K7KYYI.json",
+    "local_name": "Nanjing Lituo Communication Technology Co., Ltd.",
+    "enterprise_name": "Nanjing Lituo Communication Technology",
+    "tags": "1-Person Telecom Equipment Trading Proxy, Services Zone Virtual Node (Cluster A Zone 4-043), UPS, Power Systems & Telecom Hardware Sales, Electronic Equipment Installation & Debugging, Debunked 'Electronic Device Mfg' Status",
+    "id": "NOO-BPC3DFVXD5K7KYYI-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Nanjing Lituo Communication Technology Co., Ltd. (Nanjing Lituo Communication Technology)\nRegistration No: 91320113MA1Q366N1M\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 3,000,000 RMB (100,000 RMB Paid-in - Diluted) [EXTRACTED]\nLocation Context: Room 4-043, Zone A, Services Trade Zone, No. 268 Lidao Road, Baguazhou Subdistrict, Qixia District, Nanjing City (A highly subdivided virtual registration node ['4-043'] within a 'Services Trade Zone'. This is the exact same address cluster where two other identified proxies [Topert and Zhongyanheng] are registered. This spatial coordinate definitively precludes industrial manufacturing, serving purely as a tax-registration hub for non-manufacturing service and trading entities).\nClaimed Tags: '1-Person Telecom Equipment Trading Proxy, Services Zone Virtual Node (Cluster A Zone 4-043), UPS, Power Systems & Telecom Hardware Sales, Electronic Equipment Installation & Debugging, Debunked 'Electronic Device Mfg' Status'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Nanjing Lituo Communication Technology a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Nanjing Lituo Communication Technology**\n\n**1. Official Identity**\n- Legal Name: Nanjing Lituo Communication Technology Co., Ltd.\n- Registration No.: 91320113MA1Q366N1M\n- Status: ACTIVE\n- **Business Heritage**: Est. 2017 (9 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-BPC3DFVXD5K7KYYI/NOO-BPC3DFVXD5K7KYYI.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 71/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-BPC3DFVXD5K7KYYI",
+    "noo_source_url": "https://noo.nooxus.com/NOO-BPC3DFVXD5K7KYYI/NOO-BPC3DFVXD5K7KYYI.json",
+    "local_name": "Nanjing Lituo Communication Technology Co., Ltd.",
+    "enterprise_name": "Nanjing Lituo Communication Technology",
+    "tags": "1-Person Telecom Equipment Trading Proxy, Services Zone Virtual Node (Cluster A Zone 4-043), UPS, Power Systems & Telecom Hardware Sales, Electronic Equipment Installation & Debugging, Debunked 'Electronic Device Mfg' Status",
+    "id": "NOO-BPC3DFVXD5K7KYYI-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Nanjing Lituo Communication Technology Co., Ltd. (Nanjing Lituo Communication Technology)\nRegistration No: 91320113MA1Q366N1M\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 3,000,000 RMB (100,000 RMB Paid-in - Diluted) [EXTRACTED]\nLocation Context: Room 4-043, Zone A, Services Trade Zone, No. 268 Lidao Road, Baguazhou Subdistrict, Qixia District, Nanjing City (A highly subdivided virtual registration node ['4-043'] within a 'Services Trade Zone'. This is the exact same address cluster where two other identified proxies [Topert and Zhongyanheng] are registered. This spatial coordinate definitively precludes industrial manufacturing, serving purely as a tax-registration hub for non-manufacturing service and trading entities).\nClaimed Tags: '1-Person Telecom Equipment Trading Proxy, Services Zone Virtual Node (Cluster A Zone 4-043), UPS, Power Systems & Telecom Hardware Sales, Electronic Equipment Installation & Debugging, Debunked 'Electronic Device Mfg' Status'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Nanjing Lituo Communication Technology."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Nanjing Lituo Communication Technology**\n\n**🏭 Core Offerings**\n1. **UPS, Batteries & Power Distribution (Sales) [MINED]**: No description...\n2. **Telecom & Electronic Hardware (Sales) [MINED]**: No description...\n3. **Electronic Equipment Installation & Debugging [MINED]**: No description...\n\n**📊 Production Scale Validation**: Absolute zero physical manufacturing. The entity's scope contains no manufacturing verbs. The virtual address in a 'Services Trade Zone' ('4-043'), 1-employee headcount, and highly diluted 100,000 RMB paid-in capital instantly demolish the catastrophic official 'Manufacturing' tag. The entity operates entirely as a paper-based B2B trading and local installation operation. [EXTRACTED/INFERRED]\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-BPC3DFVXD5K7KYYI)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-BPC3DFVXD5K7KYYI",
+    "noo_source_url": "https://noo.nooxus.com/NOO-BPC3DFVXD5K7KYYI/NOO-BPC3DFVXD5K7KYYI.json",
+    "local_name": "Nanjing Lituo Communication Technology Co., Ltd.",
+    "enterprise_name": "Nanjing Lituo Communication Technology",
+    "tags": "1-Person Telecom Equipment Trading Proxy, Services Zone Virtual Node (Cluster A Zone 4-043), UPS, Power Systems & Telecom Hardware Sales, Electronic Equipment Installation & Debugging, Debunked 'Electronic Device Mfg' Status",
+    "id": "NOO-BPC3DFVXD5K7KYYI-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Nanjing Lituo Communication Technology Co., Ltd. (Nanjing Lituo Communication Technology)\nRegistration No: 91320113MA1Q366N1M\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 3,000,000 RMB (100,000 RMB Paid-in - Diluted) [EXTRACTED]\nLocation Context: Room 4-043, Zone A, Services Trade Zone, No. 268 Lidao Road, Baguazhou Subdistrict, Qixia District, Nanjing City (A highly subdivided virtual registration node ['4-043'] within a 'Services Trade Zone'. This is the exact same address cluster where two other identified proxies [Topert and Zhongyanheng] are registered. This spatial coordinate definitively precludes industrial manufacturing, serving purely as a tax-registration hub for non-manufacturing service and trading entities).\nClaimed Tags: '1-Person Telecom Equipment Trading Proxy, Services Zone Virtual Node (Cluster A Zone 4-043), UPS, Power Systems & Telecom Hardware Sales, Electronic Equipment Installation & Debugging, Debunked 'Electronic Device Mfg' Status'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Nanjing Lituo Communication Technology."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nExecuting the SGSC-AI v5.6 Spatial Satire & Telecom Proxy Protocol. The #RawData exposes a complete classification failure, pinpointing a 1-employee telecom equipment trading shell registered at the exact same 'Services Trade Zone' cluster as previously identified proxies. Deploying the v5.6 Formula: [Scale Hallucination Veto: Tagged 'Electronic Device Mfg' vs 1 Insured Employee] + [Spatial Veto & Cluster ID: Registered in 'Services Trade Zone A Zone 4-043', the identical cluster as 'Nanjing Topert' and 'Nanjing Zhongyanheng'] + [Micro-Capital Indicator: Only 100k RMB Paid-in] + [Scope Authenticity: Expressly claims ONLY 'Sales, Installation, Debugging', entirely omitting 'Manufacturing'] = 100% Asset-Light Solopreneur Telecom Equipment Trading & Installation Proxy. A single person at a virtual desk in a Services Trade Zone cannot manufacture telecom equipment. It operates purely as a 'village-registered' local proxy, focusing on the procurement, B2B sales, and installation of UPS power supplies, communication hardware, and electronic devices. [INFERRED/MINED]\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 71)\nOperational Status: ACTIVE (RURAL SHELL/PROXY) / 1-PERSON TELECOM HARDWARE TRADING & INSTALLATION DESK"
+      }
+    ]
+  }
+]

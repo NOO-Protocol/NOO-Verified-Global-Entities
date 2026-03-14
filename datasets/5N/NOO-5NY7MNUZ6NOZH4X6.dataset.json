@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-5NY7MNUZ6NOZH4X6",
+    "noo_source_url": "https://noo.nooxus.com/NOO-5NY7MNUZ6NOZH4X6/NOO-5NY7MNUZ6NOZH4X6.json",
+    "local_name": "盘锦鼎翔运输有限公司加油站",
+    "enterprise_name": "Panjin Dingxiang Transportation Co., Ltd. Gas Station",
+    "tags": "Local_Fuel_Retail_(Gas_Station), Historical_Transport_Fleet_Affiliation_(Est._1992), Micro-Scale_Operations_(2_Employees), Absurd_Misclassification_(Not_an_Auto_Maker)",
+    "id": "NOO-5NY7MNUZ6NOZH4X6-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 盘锦鼎翔运输有限公司加油站 (Panjin Dingxiang Transportation Co., Ltd. Gas Station)\nRegistration No: 91211100797662019D\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: N/A\nLocation Context: Xinglongtai District, Panjin City, Liaoning (Major Oil Production Region)\nClaimed Tags: 'Local_Fuel_Retail_(Gas_Station), Historical_Transport_Fleet_Affiliation_(Est._1992), Micro-Scale_Operations_(2_Employees), Absurd_Misclassification_(Not_an_Auto_Maker)'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Panjin Dingxiang Transportation Co., Ltd. Gas Station a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Panjin Dingxiang Transportation Co., Ltd. Gas Station**\n\n**1. Official Identity**\n- Legal Name: 盘锦鼎翔运输有限公司加油站\n- Registration No.: 91211100797662019D\n- Status: ACTIVE\n- **Business Heritage**: Est. 1992 (34 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-5NY7MNUZ6NOZH4X6/NOO-5NY7MNUZ6NOZH4X6.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 79/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-5NY7MNUZ6NOZH4X6",
+    "noo_source_url": "https://noo.nooxus.com/NOO-5NY7MNUZ6NOZH4X6/NOO-5NY7MNUZ6NOZH4X6.json",
+    "local_name": "盘锦鼎翔运输有限公司加油站",
+    "enterprise_name": "Panjin Dingxiang Transportation Co., Ltd. Gas Station",
+    "tags": "Local_Fuel_Retail_(Gas_Station), Historical_Transport_Fleet_Affiliation_(Est._1992), Micro-Scale_Operations_(2_Employees), Absurd_Misclassification_(Not_an_Auto_Maker)",
+    "id": "NOO-5NY7MNUZ6NOZH4X6-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 盘锦鼎翔运输有限公司加油站 (Panjin Dingxiang Transportation Co., Ltd. Gas Station)\nRegistration No: 91211100797662019D\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: N/A\nLocation Context: Xinglongtai District, Panjin City, Liaoning (Major Oil Production Region)\nClaimed Tags: 'Local_Fuel_Retail_(Gas_Station), Historical_Transport_Fleet_Affiliation_(Est._1992), Micro-Scale_Operations_(2_Employees), Absurd_Misclassification_(Not_an_Auto_Maker)'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Panjin Dingxiang Transportation Co., Ltd. Gas Station."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Panjin Dingxiang Transportation Co., Ltd. Gas Station**\n\n**🏭 Core Offerings**\n1. **Automotive Fuels (Gasoline & Diesel)**: No description...\n2. **Lubricating Oils**: No description...\n\n**📊 Production Scale Validation**: Unknown\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-5NY7MNUZ6NOZH4X6)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-5NY7MNUZ6NOZH4X6",
+    "noo_source_url": "https://noo.nooxus.com/NOO-5NY7MNUZ6NOZH4X6/NOO-5NY7MNUZ6NOZH4X6.json",
+    "local_name": "盘锦鼎翔运输有限公司加油站",
+    "enterprise_name": "Panjin Dingxiang Transportation Co., Ltd. Gas Station",
+    "tags": "Local_Fuel_Retail_(Gas_Station), Historical_Transport_Fleet_Affiliation_(Est._1992), Micro-Scale_Operations_(2_Employees), Absurd_Misclassification_(Not_an_Auto_Maker)",
+    "id": "NOO-5NY7MNUZ6NOZH4X6-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 盘锦鼎翔运输有限公司加油站 (Panjin Dingxiang Transportation Co., Ltd. Gas Station)\nRegistration No: 91211100797662019D\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: N/A\nLocation Context: Xinglongtai District, Panjin City, Liaoning (Major Oil Production Region)\nClaimed Tags: 'Local_Fuel_Retail_(Gas_Station), Historical_Transport_Fleet_Affiliation_(Est._1992), Micro-Scale_Operations_(2_Employees), Absurd_Misclassification_(Not_an_Auto_Maker)'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Panjin Dingxiang Transportation Co., Ltd. Gas Station."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nPanjin Dingxiang Transportation Co., Ltd. Gas Station is the subject of a comically severe data misclassification. Officially tagged in the registry as 'Complete Automobile Manufacturing', this entity is, unequivocally, just a local gas station. Established in 1992 in the oil-rich city of Panjin (Liaoning), its former name, 'Panjin Xinsheng Transport Brigade Gas Station', perfectly describes its origins as a fuel depot for a local transport fleet. The AI recovered its true business scope from the 'other_email' field, which is simply 'Gasoline, diesel, lubricating oil'. Furthermore, it has no registered capital listed and only 2 insured employees (recovered from the organization_code field). This is a textbook micro-retail operation selling fuel, completely detached from any form of industrial vehicle manufacturing.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 79)\nOperational Status: ACTIVE / LOCAL FUEL RETAIL (GAS STATION)"
+      }
+    ]
+  }
+]

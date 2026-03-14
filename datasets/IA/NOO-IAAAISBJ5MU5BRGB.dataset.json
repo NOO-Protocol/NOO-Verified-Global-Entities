@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-IAAAISBJ5MU5BRGB",
+    "noo_source_url": "https://noo.nooxus.com/NOO-IAAAISBJ5MU5BRGB/NOO-IAAAISBJ5MU5BRGB.json",
+    "local_name": "诺丽达游艇有限公司",
+    "enterprise_name": "Nereyda Marine",
+    "tags": "FDI_Joint_Venture_Shell, Dormant_Marine_Manufacturing_Assets, Non-Metallic_Yacht_&_Trailer_Design, High-Capital_Suspended_Project",
+    "id": "NOO-IAAAISBJ5MU5BRGB-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 诺丽达游艇有限公司 (Nereyda Marine)\nRegistration No: 91320000593982061T\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 50,000,000 USD (Fully Paid-in)\nLocation Context: Liyang Economic Development Zone, Changzhou, Jiangsu\nClaimed Tags: 'FDI_Joint_Venture_Shell, Dormant_Marine_Manufacturing_Assets, Non-Metallic_Yacht_&_Trailer_Design, High-Capital_Suspended_Project'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Nereyda Marine a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Nereyda Marine**\n\n**1. Official Identity**\n- Legal Name: 诺丽达游艇有限公司\n- Registration No.: 91320000593982061T\n- Status: ACTIVE\n- **Business Heritage**: Est. 2012 (14 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-IAAAISBJ5MU5BRGB/NOO-IAAAISBJ5MU5BRGB.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 71/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-IAAAISBJ5MU5BRGB",
+    "noo_source_url": "https://noo.nooxus.com/NOO-IAAAISBJ5MU5BRGB/NOO-IAAAISBJ5MU5BRGB.json",
+    "local_name": "诺丽达游艇有限公司",
+    "enterprise_name": "Nereyda Marine",
+    "tags": "FDI_Joint_Venture_Shell, Dormant_Marine_Manufacturing_Assets, Non-Metallic_Yacht_&_Trailer_Design, High-Capital_Suspended_Project",
+    "id": "NOO-IAAAISBJ5MU5BRGB-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 诺丽达游艇有限公司 (Nereyda Marine)\nRegistration No: 91320000593982061T\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 50,000,000 USD (Fully Paid-in)\nLocation Context: Liyang Economic Development Zone, Changzhou, Jiangsu\nClaimed Tags: 'FDI_Joint_Venture_Shell, Dormant_Marine_Manufacturing_Assets, Non-Metallic_Yacht_&_Trailer_Design, High-Capital_Suspended_Project'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Nereyda Marine."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Nereyda Marine**\n\n**🏭 Core Offerings**\n1. **Non-Metallic Yachts (Fiberglass/Composite)**: No description...\n2. **Yacht Trailers & Accessories**: No description...\n\n**📊 Production Scale Validation**: Dormant manufacturing facility (0 direct insured employees reported in 2022).\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-IAAAISBJ5MU5BRGB)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-IAAAISBJ5MU5BRGB",
+    "noo_source_url": "https://noo.nooxus.com/NOO-IAAAISBJ5MU5BRGB/NOO-IAAAISBJ5MU5BRGB.json",
+    "local_name": "诺丽达游艇有限公司",
+    "enterprise_name": "Nereyda Marine",
+    "tags": "FDI_Joint_Venture_Shell, Dormant_Marine_Manufacturing_Assets, Non-Metallic_Yacht_&_Trailer_Design, High-Capital_Suspended_Project",
+    "id": "NOO-IAAAISBJ5MU5BRGB-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 诺丽达游艇有限公司 (Nereyda Marine)\nRegistration No: 91320000593982061T\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 50,000,000 USD (Fully Paid-in)\nLocation Context: Liyang Economic Development Zone, Changzhou, Jiangsu\nClaimed Tags: 'FDI_Joint_Venture_Shell, Dormant_Marine_Manufacturing_Assets, Non-Metallic_Yacht_&_Trailer_Design, High-Capital_Suspended_Project'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Nereyda Marine."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nNolida Yacht Co. (operating internationally under 'Nereyda Marine') exhibits severe structural anomalies typical of a dormant Foreign Direct Investment (FDI) shell or a suspended joint venture project. Despite an enormous fully paid-in capital of 50 million USD and a Sino-foreign JV structure helmed by an internationally designated legal representative ('SHENG CHEN'), the entity reported 0 insured employees as of its latest 2022 filing. This complete absence of workforce in a labor- and capital-intensive industry like fiberglass yacht manufacturing undeniably confirms that the Liyang Economic Development Zone facility is not currently producing physical vessels. The 50 million USD capital likely represents frozen assets, land acquisition funds, or a halted cross-border investment initiative. Furthermore, its official classification under 'Urban Rail Transit Equipment' is a profound clerical error, entirely disconnected from its actual mandate to build non-metallic yachts and trailers.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 71)\nOperational Status: DORMANT / SUSPENDED FDI PROJECT"
+      }
+    ]
+  }
+]

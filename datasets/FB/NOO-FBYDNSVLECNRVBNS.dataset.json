@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-FBYDNSVLECNRVBNS",
+    "noo_source_url": "https://noo.nooxus.com/NOO-FBYDNSVLECNRVBNS/NOO-FBYDNSVLECNRVBNS.json",
+    "local_name": "Changzhou Zhenyu Automobile Service Co., Ltd.",
+    "enterprise_name": "Zhenyu Auto Repair",
+    "tags": "Class_II_Commercial_Truck_Repair, Legacy_Township_Auto_Garage, Auto_Parts_&_Lubricants_Retail, Micro_Service_Entity",
+    "id": "NOO-FBYDNSVLECNRVBNS-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Changzhou Zhenyu Automobile Service Co., Ltd. (Zhenyu Auto Repair)\nRegistration No: 91320411250925014U\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: 600,000 RMB (Fully Paid-in)\nLocation Context: Xinbei District (formerly Hutang Town, Wujin), Changzhou City, Jiangsu (Industrial/Logistics Corridor)\nClaimed Tags: 'Class_II_Commercial_Truck_Repair, Legacy_Township_Auto_Garage, Auto_Parts_&_Lubricants_Retail, Micro_Service_Entity'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Zhenyu Auto Repair a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Zhenyu Auto Repair**\n\n**1. Official Identity**\n- Legal Name: Changzhou Zhenyu Automobile Service Co., Ltd.\n- Registration No.: 91320411250925014U\n- Status: ACTIVE\n- **Business Heritage**: Est. 1988 (38 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-FBYDNSVLECNRVBNS/NOO-FBYDNSVLECNRVBNS.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 79/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-FBYDNSVLECNRVBNS",
+    "noo_source_url": "https://noo.nooxus.com/NOO-FBYDNSVLECNRVBNS/NOO-FBYDNSVLECNRVBNS.json",
+    "local_name": "Changzhou Zhenyu Automobile Service Co., Ltd.",
+    "enterprise_name": "Zhenyu Auto Repair",
+    "tags": "Class_II_Commercial_Truck_Repair, Legacy_Township_Auto_Garage, Auto_Parts_&_Lubricants_Retail, Micro_Service_Entity",
+    "id": "NOO-FBYDNSVLECNRVBNS-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Changzhou Zhenyu Automobile Service Co., Ltd. (Zhenyu Auto Repair)\nRegistration No: 91320411250925014U\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: 600,000 RMB (Fully Paid-in)\nLocation Context: Xinbei District (formerly Hutang Town, Wujin), Changzhou City, Jiangsu (Industrial/Logistics Corridor)\nClaimed Tags: 'Class_II_Commercial_Truck_Repair, Legacy_Township_Auto_Garage, Auto_Parts_&_Lubricants_Retail, Micro_Service_Entity'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Zhenyu Auto Repair."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Zhenyu Auto Repair**\n\n**🏭 Core Offerings**\n1. **Class II Auto Repair (Commercial Trucks)**: No description...\n2. **Auto Parts & Lubricants Retail**: No description...\n\n**📊 Production Scale Validation**: Zero manufacturing capacity. Operates as a micro-scale roadside repair garage, supported by a 1-person insured workforce and legacy 600,000 RMB capital.\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-FBYDNSVLECNRVBNS)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-FBYDNSVLECNRVBNS",
+    "noo_source_url": "https://noo.nooxus.com/NOO-FBYDNSVLECNRVBNS/NOO-FBYDNSVLECNRVBNS.json",
+    "local_name": "Changzhou Zhenyu Automobile Service Co., Ltd.",
+    "enterprise_name": "Zhenyu Auto Repair",
+    "tags": "Class_II_Commercial_Truck_Repair, Legacy_Township_Auto_Garage, Auto_Parts_&_Lubricants_Retail, Micro_Service_Entity",
+    "id": "NOO-FBYDNSVLECNRVBNS-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Changzhou Zhenyu Automobile Service Co., Ltd. (Zhenyu Auto Repair)\nRegistration No: 91320411250925014U\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: 600,000 RMB (Fully Paid-in)\nLocation Context: Xinbei District (formerly Hutang Town, Wujin), Changzhou City, Jiangsu (Industrial/Logistics Corridor)\nClaimed Tags: 'Class_II_Commercial_Truck_Repair, Legacy_Township_Auto_Garage, Auto_Parts_&_Lubricants_Retail, Micro_Service_Entity'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Zhenyu Auto Repair."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nChangzhou Zhenyu Automobile Service Co., Ltd. represents another severe instance of registry misclassification combined with data corruption. Officially tagged as an 'Automobile Complete Vehicle Manufacturer', forensic analysis of its historical names (erroneously stored in 'industry_medium') exposes its true origin: it was founded in 1988 as 'Wujin County Hutang Wanli Auto Repair Factory'. Its actual business scope, recovered from the 'other_email' field, explicitly defines it as a 'Class II Auto Repair (Trucks)' facility that also sells auto parts and lubricants. Operating with a micro-capitalization of 600,000 RMB and a corrected workforce of only 1 insured employee (2024), it is definitively a grassroots, roadside commercial truck repair shop, completely devoid of any vehicle manufacturing capabilities.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 79)\nOperational Status: ACTIVE / MICRO TRUCK REPAIR GARAGE"
+      }
+    ]
+  }
+]

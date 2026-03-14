@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-RIJTEMJ32CD3JUQX",
+    "noo_source_url": "https://noo.nooxus.com/NOO-RIJTEMJ32CD3JUQX/NOO-RIJTEMJ32CD3JUQX.json",
+    "local_name": "南京元视芯智能科技有限公司",
+    "enterprise_name": "Nanjing Yuanshixin Intelligent Technology Co.",
+    "tags": "Fabless IC Design, AI Algorithm Development, High-Capital Group Node",
+    "id": "NOO-RIJTEMJ32CD3JUQX-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京元视芯智能科技有限公司 (Nanjing Yuanshixin Intelligent Technology Co.)\nRegistration No: 91320114MAD574HL4K\nTrust Tier: L1_REGISTERED (Score: 69)\nCapital: 30,000,000 RMB\nLocation Context: Yuhuatai District, Nanjing City\nClaimed Tags: 'Fabless IC Design, AI Algorithm Development, High-Capital Group Node'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Nanjing Yuanshixin Intelligent Technology Co. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Nanjing Yuanshixin Intelligent Technology Co.**\n\n**1. Official Identity**\n- Legal Name: 南京元视芯智能科技有限公司\n- Registration No.: 91320114MAD574HL4K\n- Status: ACTIVE\n- **Business Heritage**: Est. 2023 (3 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-RIJTEMJ32CD3JUQX/NOO-RIJTEMJ32CD3JUQX.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 69/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-RIJTEMJ32CD3JUQX",
+    "noo_source_url": "https://noo.nooxus.com/NOO-RIJTEMJ32CD3JUQX/NOO-RIJTEMJ32CD3JUQX.json",
+    "local_name": "南京元视芯智能科技有限公司",
+    "enterprise_name": "Nanjing Yuanshixin Intelligent Technology Co.",
+    "tags": "Fabless IC Design, AI Algorithm Development, High-Capital Group Node",
+    "id": "NOO-RIJTEMJ32CD3JUQX-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京元视芯智能科技有限公司 (Nanjing Yuanshixin Intelligent Technology Co.)\nRegistration No: 91320114MAD574HL4K\nTrust Tier: L1_REGISTERED (Score: 69)\nCapital: 30,000,000 RMB\nLocation Context: Yuhuatai District, Nanjing City\nClaimed Tags: 'Fabless IC Design, AI Algorithm Development, High-Capital Group Node'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Nanjing Yuanshixin Intelligent Technology Co.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Nanjing Yuanshixin Intelligent Technology Co.**\n\n**🏭 Core Offerings**\n1. **Integrated Circuit (IC) Design**: No description...\n2. **AI Algorithm & Software Development**: No description...\n3. **IC Chips & Electronic Products (Sales)**: No description...\n\n**📊 Production Scale Validation**: Fabless Operations (Outsourced Manufacturing)\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-RIJTEMJ32CD3JUQX)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-RIJTEMJ32CD3JUQX",
+    "noo_source_url": "https://noo.nooxus.com/NOO-RIJTEMJ32CD3JUQX/NOO-RIJTEMJ32CD3JUQX.json",
+    "local_name": "南京元视芯智能科技有限公司",
+    "enterprise_name": "Nanjing Yuanshixin Intelligent Technology Co.",
+    "tags": "Fabless IC Design, AI Algorithm Development, High-Capital Group Node",
+    "id": "NOO-RIJTEMJ32CD3JUQX-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京元视芯智能科技有限公司 (Nanjing Yuanshixin Intelligent Technology Co.)\nRegistration No: 91320114MAD574HL4K\nTrust Tier: L1_REGISTERED (Score: 69)\nCapital: 30,000,000 RMB\nLocation Context: Yuhuatai District, Nanjing City\nClaimed Tags: 'Fabless IC Design, AI Algorithm Development, High-Capital Group Node'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Nanjing Yuanshixin Intelligent Technology Co.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nTriggering the v5.7 forensic engine deep analysis. The enterprise is marked as 'Large' and has a paid-in capital of up to 30 million RMB. It has a 'sole proprietorship by a legal person' structure and possesses a customized corporate email suffix (@mtsilicon.com, implying its parent company or affiliate is a chip technology group with certain technical strength). However, its registered address, 'Room 1822-250, North D2, No. 32 Dazhou Road,' is a typical commercial office building cluster, and the insured headcount for that year was 0. Synthesizing its business scope of 'integrated circuit chip design' and 'AI basic software development,' this entity is not a physical wafer manufacturing factory, but a highly typical 'Fabless chip design studio,' a 'wholly-owned R&D/sales node established by a group in a specific high-tech zone,' or a 'shareholding/qualification routing shell.' The system removes its physical manufacturing attribute here, precisely characterizing it as: a highly capital-intensive Fabless IC design and AI algorithm R&D node.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 69)\nOperational Status: GROUP NODE / FABLESS R&D"
+      }
+    ]
+  }
+]

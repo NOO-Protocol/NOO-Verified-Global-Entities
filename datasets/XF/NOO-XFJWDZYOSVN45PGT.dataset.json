@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-XFJWDZYOSVN45PGT",
+    "noo_source_url": "https://noo.nooxus.com/NOO-XFJWDZYOSVN45PGT/NOO-XFJWDZYOSVN45PGT.json",
+    "local_name": "Fujian Putian Dexiang Machinery Industry Co., Ltd.",
+    "enterprise_name": "Dexiang Machinery (Legacy)",
+    "tags": "Legacy_Sino-Foreign/Taiwanese_Joint_Venture, Defunct_Auto_Parts_&_Machine_Tool_Mfg, Historical_USD_Capitalization_(1.2M), Dormant_Micro_Shell",
+    "id": "NOO-XFJWDZYOSVN45PGT-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Fujian Putian Dexiang Machinery Industry Co., Ltd. (Dexiang Machinery (Legacy))\nRegistration No: 91350300611255168W\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: 1,200,000 USD (Fully Paid-in)\nLocation Context: Hanjiang District, Putian City, Fujian (Historical Industrial/Shoe-making Hub)\nClaimed Tags: 'Legacy_Sino-Foreign/Taiwanese_Joint_Venture, Defunct_Auto_Parts_&_Machine_Tool_Mfg, Historical_USD_Capitalization_(1.2M), Dormant_Micro_Shell'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Dexiang Machinery (Legacy) a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Dexiang Machinery (Legacy)**\n\n**1. Official Identity**\n- Legal Name: Fujian Putian Dexiang Machinery Industry Co., Ltd.\n- Registration No.: 91350300611255168W\n- Status: ACTIVE\n- **Business Heritage**: Est. 1992 (34 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-XFJWDZYOSVN45PGT/NOO-XFJWDZYOSVN45PGT.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 79/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-XFJWDZYOSVN45PGT",
+    "noo_source_url": "https://noo.nooxus.com/NOO-XFJWDZYOSVN45PGT/NOO-XFJWDZYOSVN45PGT.json",
+    "local_name": "Fujian Putian Dexiang Machinery Industry Co., Ltd.",
+    "enterprise_name": "Dexiang Machinery (Legacy)",
+    "tags": "Legacy_Sino-Foreign/Taiwanese_Joint_Venture, Defunct_Auto_Parts_&_Machine_Tool_Mfg, Historical_USD_Capitalization_(1.2M), Dormant_Micro_Shell",
+    "id": "NOO-XFJWDZYOSVN45PGT-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Fujian Putian Dexiang Machinery Industry Co., Ltd. (Dexiang Machinery (Legacy))\nRegistration No: 91350300611255168W\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: 1,200,000 USD (Fully Paid-in)\nLocation Context: Hanjiang District, Putian City, Fujian (Historical Industrial/Shoe-making Hub)\nClaimed Tags: 'Legacy_Sino-Foreign/Taiwanese_Joint_Venture, Defunct_Auto_Parts_&_Machine_Tool_Mfg, Historical_USD_Capitalization_(1.2M), Dormant_Micro_Shell'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Dexiang Machinery (Legacy)."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Dexiang Machinery (Legacy)**\n\n**🏭 Core Offerings**\n1. **Auto/Motorcycle Critical Parts (Defunct)**: No description...\n2. **CNC Machine Tools & Molds (Defunct)**: No description...\n\n**📊 Production Scale Validation**: Absolute zero current manufacturing capacity. The 1.2M USD capital reflects its early 90s ambitions. Sustained by only 2 insured employees, indicating total industrial collapse.\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-XFJWDZYOSVN45PGT)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-XFJWDZYOSVN45PGT",
+    "noo_source_url": "https://noo.nooxus.com/NOO-XFJWDZYOSVN45PGT/NOO-XFJWDZYOSVN45PGT.json",
+    "local_name": "Fujian Putian Dexiang Machinery Industry Co., Ltd.",
+    "enterprise_name": "Dexiang Machinery (Legacy)",
+    "tags": "Legacy_Sino-Foreign/Taiwanese_Joint_Venture, Defunct_Auto_Parts_&_Machine_Tool_Mfg, Historical_USD_Capitalization_(1.2M), Dormant_Micro_Shell",
+    "id": "NOO-XFJWDZYOSVN45PGT-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Fujian Putian Dexiang Machinery Industry Co., Ltd. (Dexiang Machinery (Legacy))\nRegistration No: 91350300611255168W\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: 1,200,000 USD (Fully Paid-in)\nLocation Context: Hanjiang District, Putian City, Fujian (Historical Industrial/Shoe-making Hub)\nClaimed Tags: 'Legacy_Sino-Foreign/Taiwanese_Joint_Venture, Defunct_Auto_Parts_&_Machine_Tool_Mfg, Historical_USD_Capitalization_(1.2M), Dormant_Micro_Shell'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Dexiang Machinery (Legacy)."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nFujian Putian Dexiang Machinery Industry Co., Ltd. presents a profile of an early 1990s foreign-invested (likely Taiwanese/Overseas Chinese) manufacturing venture that has functionally collapsed. Despite standard data corruption (where business scope was pushed to 'other_email' and workforce to 'organization_code'), forensic analysis clarifies its trajectory. Established in 1992 in Putian with a paid-in capital of 1.2 million USD, it originally aimed to manufacture 'critical auto/motorcycle parts, CNC machine tools, and mold standard parts'. However, the corrected workforce data reveals a mere 2 insured employees in 2024. This stark discrepancy between its highly ambitious, heavy-industrial scope (CNC machines) and its current 2-person micro-scale confirms that physical manufacturing has ceased entirely. It currently exists solely as a dormant holding shell, likely retaining its legacy licenses or land rights in Hanjiang District.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 79)\nOperational Status: DORMANT FACTORY / MICRO HOLDING SHELL"
+      }
+    ]
+  }
+]

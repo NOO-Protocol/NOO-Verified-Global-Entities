@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-SDRP2QL55K3XUGLG",
+    "noo_source_url": "https://noo.nooxus.com/NOO-SDRP2QL55K3XUGLG/NOO-SDRP2QL55K3XUGLG.json",
+    "local_name": "江苏清江投资股份有限公司",
+    "enterprise_name": "Jiangsu Qingjiang Investment Co., Ltd.",
+    "tags": "Legacy Joint-Stock Shell (Former Motor Manufacturer), Asset-Light Investment & Trading Vehicle (4 Employees), Industrial Real Estate Leasing, Administrative & Capital Management",
+    "id": "NOO-SDRP2QL55K3XUGLG-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 江苏清江投资股份有限公司 (Jiangsu Qingjiang Investment Co., Ltd.)\nRegistration No: 91320000139434655E\nTrust Tier: L1_REGISTERED (Score: 80)\nCapital: N/A\nLocation Context: Qingjiangpu District, Huai'an (Residential/Commercial Address)\nClaimed Tags: 'Legacy Joint-Stock Shell (Former Motor Manufacturer), Asset-Light Investment & Trading Vehicle (4 Employees), Industrial Real Estate Leasing, Administrative & Capital Management'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Jiangsu Qingjiang Investment Co., Ltd. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Jiangsu Qingjiang Investment Co., Ltd.**\n\n**1. Official Identity**\n- Legal Name: 江苏清江投资股份有限公司\n- Registration No.: 91320000139434655E\n- Status: ACTIVE\n- **Business Heritage**: Est. 1994 (32 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-SDRP2QL55K3XUGLG/NOO-SDRP2QL55K3XUGLG.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 80/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-SDRP2QL55K3XUGLG",
+    "noo_source_url": "https://noo.nooxus.com/NOO-SDRP2QL55K3XUGLG/NOO-SDRP2QL55K3XUGLG.json",
+    "local_name": "江苏清江投资股份有限公司",
+    "enterprise_name": "Jiangsu Qingjiang Investment Co., Ltd.",
+    "tags": "Legacy Joint-Stock Shell (Former Motor Manufacturer), Asset-Light Investment & Trading Vehicle (4 Employees), Industrial Real Estate Leasing, Administrative & Capital Management",
+    "id": "NOO-SDRP2QL55K3XUGLG-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 江苏清江投资股份有限公司 (Jiangsu Qingjiang Investment Co., Ltd.)\nRegistration No: 91320000139434655E\nTrust Tier: L1_REGISTERED (Score: 80)\nCapital: N/A\nLocation Context: Qingjiangpu District, Huai'an (Residential/Commercial Address)\nClaimed Tags: 'Legacy Joint-Stock Shell (Former Motor Manufacturer), Asset-Light Investment & Trading Vehicle (4 Employees), Industrial Real Estate Leasing, Administrative & Capital Management'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Jiangsu Qingjiang Investment Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Jiangsu Qingjiang Investment Co., Ltd.**\n\n**🏭 Core Offerings**\n1. **Industrial Investment & Trading**: No description...\n2. **Property Leasing Services**: No description...\n3. **Electrical Machinery (Legacy)**: No description...\n\n**💡 Highlight**: Operates a **Hybrid Model** (Manufacturing + Asset Leasing), indicating higher financial resilience.\n\n**📊 Production Scale Validation**: Unknown\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-SDRP2QL55K3XUGLG)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-SDRP2QL55K3XUGLG",
+    "noo_source_url": "https://noo.nooxus.com/NOO-SDRP2QL55K3XUGLG/NOO-SDRP2QL55K3XUGLG.json",
+    "local_name": "江苏清江投资股份有限公司",
+    "enterprise_name": "Jiangsu Qingjiang Investment Co., Ltd.",
+    "tags": "Legacy Joint-Stock Shell (Former Motor Manufacturer), Asset-Light Investment & Trading Vehicle (4 Employees), Industrial Real Estate Leasing, Administrative & Capital Management",
+    "id": "NOO-SDRP2QL55K3XUGLG-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 江苏清江投资股份有限公司 (Jiangsu Qingjiang Investment Co., Ltd.)\nRegistration No: 91320000139434655E\nTrust Tier: L1_REGISTERED (Score: 80)\nCapital: N/A\nLocation Context: Qingjiangpu District, Huai'an (Residential/Commercial Address)\nClaimed Tags: 'Legacy Joint-Stock Shell (Former Motor Manufacturer), Asset-Light Investment & Trading Vehicle (4 Employees), Industrial Real Estate Leasing, Administrative & Capital Management'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Jiangsu Qingjiang Investment Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nJiangsu Qingjiang Investment Co., Ltd. presents a textbook case of a legacy manufacturing plant that has undergone extreme structural transformation, abandoning its industrial roots to become a micro-scale investment and property management shell. The original 'Apple Inc.' hallucination data was thoroughly expunged. Established in 1994, its former name—'Jiangsu Qingjiang Motor Co., Ltd.'—reveals its history as a regional motor manufacturer. However, it subsequently rebranded as an 'Investment' company. Despite retaining a 'Manufacturing' classification in official records, its 2024 insured workforce has collapsed to merely 4 employees. Furthermore, its registered address is an apartment building ('Building 26, Huaihai Garden') rather than an industrial facility. Its current business scope prioritizes 'industrial investment' and explicitly includes 'property leasing'. This confirms that active physical manufacturing of electrical machinery has ceased; the entity now functions as an administrative shell managing legacy capital, trading, and leasing its former real estate assets.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 80)\nOperational Status: DORMANT MANUFACTURING / INVESTMENT & LEASING SHELL"
+      }
+    ]
+  }
+]

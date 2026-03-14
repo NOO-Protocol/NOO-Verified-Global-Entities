@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-SZEBPQXT3XKO4BKU",
+    "noo_source_url": "https://noo.nooxus.com/NOO-SZEBPQXT3XKO4BKU/NOO-SZEBPQXT3XKO4BKU.json",
+    "local_name": "Nanjing Jingyang Automation System Co., Ltd.",
+    "enterprise_name": "Jingyang Automation",
+    "tags": "Legacy_Automation_Manufacturer_(Defunct), Asset-Heavy_Property_Leasing, Commercial_Services_Holding_Shell, Cross-Industry_Investment_Node",
+    "id": "NOO-SZEBPQXT3XKO4BKU-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Nanjing Jingyang Automation System Co., Ltd. (Jingyang Automation)\nRegistration No: 91320100593513054Y\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 36,533,950 RMB (16,761,010 RMB Paid-in)\nLocation Context: Puliu Road, Pukou District, Nanjing (Suburban Commercial/Industrial Mix)\nClaimed Tags: 'Legacy_Automation_Manufacturer_(Defunct), Asset-Heavy_Property_Leasing, Commercial_Services_Holding_Shell, Cross-Industry_Investment_Node'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Jingyang Automation a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Jingyang Automation**\n\n**1. Official Identity**\n- Legal Name: Nanjing Jingyang Automation System Co., Ltd.\n- Registration No.: 91320100593513054Y\n- Status: ACTIVE\n- **Business Heritage**: Est. 2012 (14 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-SZEBPQXT3XKO4BKU/NOO-SZEBPQXT3XKO4BKU.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 71/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-SZEBPQXT3XKO4BKU",
+    "noo_source_url": "https://noo.nooxus.com/NOO-SZEBPQXT3XKO4BKU/NOO-SZEBPQXT3XKO4BKU.json",
+    "local_name": "Nanjing Jingyang Automation System Co., Ltd.",
+    "enterprise_name": "Jingyang Automation",
+    "tags": "Legacy_Automation_Manufacturer_(Defunct), Asset-Heavy_Property_Leasing, Commercial_Services_Holding_Shell, Cross-Industry_Investment_Node",
+    "id": "NOO-SZEBPQXT3XKO4BKU-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Nanjing Jingyang Automation System Co., Ltd. (Jingyang Automation)\nRegistration No: 91320100593513054Y\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 36,533,950 RMB (16,761,010 RMB Paid-in)\nLocation Context: Puliu Road, Pukou District, Nanjing (Suburban Commercial/Industrial Mix)\nClaimed Tags: 'Legacy_Automation_Manufacturer_(Defunct), Asset-Heavy_Property_Leasing, Commercial_Services_Holding_Shell, Cross-Industry_Investment_Node'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Jingyang Automation."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Jingyang Automation**\n\n**🏭 Core Offerings**\n1. **Property Leasing & Facility Management**: No description...\n2. **Diversified Commercial Services (Licensed Shell)**: No description...\n\n**💡 Highlight**: Operates a **Hybrid Model** (Manufacturing + Asset Leasing), indicating higher financial resilience.\n\n**📊 Production Scale Validation**: Zero active manufacturing capacity (4 employees). Highly capitalized (16.7M RMB Paid-in) but functioning entirely as a property/investment management vehicle.\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-SZEBPQXT3XKO4BKU)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-SZEBPQXT3XKO4BKU",
+    "noo_source_url": "https://noo.nooxus.com/NOO-SZEBPQXT3XKO4BKU/NOO-SZEBPQXT3XKO4BKU.json",
+    "local_name": "Nanjing Jingyang Automation System Co., Ltd.",
+    "enterprise_name": "Jingyang Automation",
+    "tags": "Legacy_Automation_Manufacturer_(Defunct), Asset-Heavy_Property_Leasing, Commercial_Services_Holding_Shell, Cross-Industry_Investment_Node",
+    "id": "NOO-SZEBPQXT3XKO4BKU-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Nanjing Jingyang Automation System Co., Ltd. (Jingyang Automation)\nRegistration No: 91320100593513054Y\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 36,533,950 RMB (16,761,010 RMB Paid-in)\nLocation Context: Puliu Road, Pukou District, Nanjing (Suburban Commercial/Industrial Mix)\nClaimed Tags: 'Legacy_Automation_Manufacturer_(Defunct), Asset-Heavy_Property_Leasing, Commercial_Services_Holding_Shell, Cross-Industry_Investment_Node'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Jingyang Automation."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nNanjing Jingyang Automation System Co., Ltd. presents an extreme structural mutation, transforming from a foreign-invested automation manufacturer into a radically diversified asset-holding and service shell. Originally named 'Sanneng Jingyang Automation' with a substantial paid-in capital of 16.76 million RMB, it currently reports an absolute collapse in workforce (only 4 insured employees in 2024). A forensic review of its business scope reveals a staggering pivot: while retaining legacy tags for 'Mechanical/Electrical Equipment', it has obtained explicit licensing for 'Catering Services', 'Medical Aesthetics', 'Elderly Care', and 'Property Management'. This confirms the entity has completely abandoned heavy industrial manufacturing. The 4 remaining employees likely manage its legacy physical assets (real estate) at No. 8 Puliu Road, leasing them out to commercial operators (clinics, restaurants, parking lots) while serving as a legal shell for diversified foreign or domestic investments.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 71)\nOperational Status: ACTIVE / REPURPOSED ASSET HOLDING & SERVICE SHELL"
+      }
+    ]
+  }
+]

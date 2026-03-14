@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-5JAV6ZZULHY5ESTX",
+    "noo_source_url": "https://noo.nooxus.com/NOO-5JAV6ZZULHY5ESTX/NOO-5JAV6ZZULHY5ESTX.json",
+    "local_name": "Jiangsu Chunlida General Equipment Co., Ltd.",
+    "enterprise_name": "Chunlida Equipment",
+    "tags": "Micro-Scale_Auto_Parts_Distribution, Automotive_HVAC_Components_(Aftermarket), Asset-Light_Procurement_&_Sales_Shell, Legacy_Industrial_Park_Presence",
+    "id": "NOO-5JAV6ZZULHY5ESTX-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Jiangsu Chunlida General Equipment Co., Ltd. (Chunlida Equipment)\nRegistration No: 91320000792349912G\nTrust Tier: L1_REGISTERED (Score: 74)\nCapital: 8,000,000 RMB (Fully Paid-in)\nLocation Context: Suoshu Industrial Zone, Jiangning District, Nanjing, Jiangsu\nClaimed Tags: 'Micro-Scale_Auto_Parts_Distribution, Automotive_HVAC_Components_(Aftermarket), Asset-Light_Procurement_&_Sales_Shell, Legacy_Industrial_Park_Presence'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Chunlida Equipment a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Chunlida Equipment**\n\n**1. Official Identity**\n- Legal Name: Jiangsu Chunlida General Equipment Co., Ltd.\n- Registration No.: 91320000792349912G\n- Status: ACTIVE\n- **Business Heritage**: Est. 2006 (20 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-5JAV6ZZULHY5ESTX/NOO-5JAV6ZZULHY5ESTX.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 74/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-5JAV6ZZULHY5ESTX",
+    "noo_source_url": "https://noo.nooxus.com/NOO-5JAV6ZZULHY5ESTX/NOO-5JAV6ZZULHY5ESTX.json",
+    "local_name": "Jiangsu Chunlida General Equipment Co., Ltd.",
+    "enterprise_name": "Chunlida Equipment",
+    "tags": "Micro-Scale_Auto_Parts_Distribution, Automotive_HVAC_Components_(Aftermarket), Asset-Light_Procurement_&_Sales_Shell, Legacy_Industrial_Park_Presence",
+    "id": "NOO-5JAV6ZZULHY5ESTX-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Jiangsu Chunlida General Equipment Co., Ltd. (Chunlida Equipment)\nRegistration No: 91320000792349912G\nTrust Tier: L1_REGISTERED (Score: 74)\nCapital: 8,000,000 RMB (Fully Paid-in)\nLocation Context: Suoshu Industrial Zone, Jiangning District, Nanjing, Jiangsu\nClaimed Tags: 'Micro-Scale_Auto_Parts_Distribution, Automotive_HVAC_Components_(Aftermarket), Asset-Light_Procurement_&_Sales_Shell, Legacy_Industrial_Park_Presence'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Chunlida Equipment."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Chunlida Equipment**\n\n**🏭 Core Offerings**\n1. **Automotive Heating Systems (HVAC)**: No description...\n2. **General Auto Parts & Mechanical Equipment**: No description...\n\n**📊 Production Scale Validation**: Micro-workshop or trading shell (4 direct insured employees in 2024).\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-5JAV6ZZULHY5ESTX)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-5JAV6ZZULHY5ESTX",
+    "noo_source_url": "https://noo.nooxus.com/NOO-5JAV6ZZULHY5ESTX/NOO-5JAV6ZZULHY5ESTX.json",
+    "local_name": "Jiangsu Chunlida General Equipment Co., Ltd.",
+    "enterprise_name": "Chunlida Equipment",
+    "tags": "Micro-Scale_Auto_Parts_Distribution, Automotive_HVAC_Components_(Aftermarket), Asset-Light_Procurement_&_Sales_Shell, Legacy_Industrial_Park_Presence",
+    "id": "NOO-5JAV6ZZULHY5ESTX-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Jiangsu Chunlida General Equipment Co., Ltd. (Chunlida Equipment)\nRegistration No: 91320000792349912G\nTrust Tier: L1_REGISTERED (Score: 74)\nCapital: 8,000,000 RMB (Fully Paid-in)\nLocation Context: Suoshu Industrial Zone, Jiangning District, Nanjing, Jiangsu\nClaimed Tags: 'Micro-Scale_Auto_Parts_Distribution, Automotive_HVAC_Components_(Aftermarket), Asset-Light_Procurement_&_Sales_Shell, Legacy_Industrial_Park_Presence'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Chunlida Equipment."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nJiangsu Chunlida General Equipment Co., Ltd. exhibits a severe misclassification within the national registry. It is officially tagged under the highest-tier industrial category: 'Automobile Complete Vehicle Manufacturing'. However, its operational reality—a micro-enterprise with only 4 insured employees in 2024 and 8 million RMB in capital—makes vehicle manufacturing physically and financially impossible. Its historical name ('Jiangsu Haida Auto Parts') and actual business scope accurately reflect its true nature: a micro-scale trading and nominal assembly workshop focused on automotive HVAC components (specifically car heating systems) and general hardware. The entity likely operates as a small-scale Tier-3/Tier-4 supplier or an aftermarket distributor within the Jiangning industrial cluster, utilizing its 'manufacturing' license primarily for procurement, sales, and localized aftermarket services.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 74)\nOperational Status: ACTIVE (ON PAPER) / MICRO AUTO PARTS DISTRIBUTOR"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-CP74XWTCJYOKEZYL",
+    "noo_source_url": "https://noo.nooxus.com/NOO-CP74XWTCJYOKEZYL/NOO-CP74XWTCJYOKEZYL.json",
+    "local_name": "南京国研电子科技有限公司",
+    "enterprise_name": "Nanjing Guoyan Electronic Technology Co., Ltd.",
+    "tags": "Asset-Light_R&D_Studio, Optoelectronic_Component_Trading, Micro_Technical_Consulting_Node, Misaligned_Manufacturing_Claims",
+    "id": "NOO-CP74XWTCJYOKEZYL-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京国研电子科技有限公司 (Nanjing Guoyan Electronic Technology Co., Ltd.)\nRegistration No: 91320100MA1MH6U5XU\nTrust Tier: L1_REGISTERED (Score: 70)\nCapital: N/A\nLocation Context: Qinhuai District, Nanjing (Central Urban Commercial/Admin Area)\nClaimed Tags: 'Asset-Light_R&D_Studio, Optoelectronic_Component_Trading, Micro_Technical_Consulting_Node, Misaligned_Manufacturing_Claims'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Nanjing Guoyan Electronic Technology Co., Ltd. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Nanjing Guoyan Electronic Technology Co., Ltd.**\n\n**1. Official Identity**\n- Legal Name: 南京国研电子科技有限公司\n- Registration No.: 91320100MA1MH6U5XU\n- Status: ACTIVE\n- **Business Heritage**: Est. 2016 (10 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-CP74XWTCJYOKEZYL/NOO-CP74XWTCJYOKEZYL.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 70/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-CP74XWTCJYOKEZYL",
+    "noo_source_url": "https://noo.nooxus.com/NOO-CP74XWTCJYOKEZYL/NOO-CP74XWTCJYOKEZYL.json",
+    "local_name": "南京国研电子科技有限公司",
+    "enterprise_name": "Nanjing Guoyan Electronic Technology Co., Ltd.",
+    "tags": "Asset-Light_R&D_Studio, Optoelectronic_Component_Trading, Micro_Technical_Consulting_Node, Misaligned_Manufacturing_Claims",
+    "id": "NOO-CP74XWTCJYOKEZYL-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京国研电子科技有限公司 (Nanjing Guoyan Electronic Technology Co., Ltd.)\nRegistration No: 91320100MA1MH6U5XU\nTrust Tier: L1_REGISTERED (Score: 70)\nCapital: N/A\nLocation Context: Qinhuai District, Nanjing (Central Urban Commercial/Admin Area)\nClaimed Tags: 'Asset-Light_R&D_Studio, Optoelectronic_Component_Trading, Micro_Technical_Consulting_Node, Misaligned_Manufacturing_Claims'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Nanjing Guoyan Electronic Technology Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Nanjing Guoyan Electronic Technology Co., Ltd.**\n\n**🏭 Core Offerings**\n1. **Optoelectronic & Optical Instruments (Trading)**: No description...\n2. **Electronic Components & Packaging Materials**: No description...\n\n**📊 Production Scale Validation**: Unknown\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-CP74XWTCJYOKEZYL)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-CP74XWTCJYOKEZYL",
+    "noo_source_url": "https://noo.nooxus.com/NOO-CP74XWTCJYOKEZYL/NOO-CP74XWTCJYOKEZYL.json",
+    "local_name": "南京国研电子科技有限公司",
+    "enterprise_name": "Nanjing Guoyan Electronic Technology Co., Ltd.",
+    "tags": "Asset-Light_R&D_Studio, Optoelectronic_Component_Trading, Micro_Technical_Consulting_Node, Misaligned_Manufacturing_Claims",
+    "id": "NOO-CP74XWTCJYOKEZYL-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京国研电子科技有限公司 (Nanjing Guoyan Electronic Technology Co., Ltd.)\nRegistration No: 91320100MA1MH6U5XU\nTrust Tier: L1_REGISTERED (Score: 70)\nCapital: N/A\nLocation Context: Qinhuai District, Nanjing (Central Urban Commercial/Admin Area)\nClaimed Tags: 'Asset-Light_R&D_Studio, Optoelectronic_Component_Trading, Micro_Technical_Consulting_Node, Misaligned_Manufacturing_Claims'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Nanjing Guoyan Electronic Technology Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nNanjing Guoyan Electronic Technology Co., Ltd. presents a profile typical of an asset-light, micro-scale R&D studio or specialized trading intermediary, despite its expansive official business scope claiming 'Integrated Circuit Manufacturing' and 'Optoelectronic Equipment Production'. Its operational footprint—a paid-in capital of 4 Million RMB, only 2 insured employees, and a registered address in the central urban district of Qinhuai (Zhonghua Road) rather than an industrial park—completely contradicts the heavy capital and physical space requirements of IC fabrication or hardware manufacturing lines. It most likely functions as a niche distributor of optical instruments/electronic components, or an outsourced technical consulting node for local research institutes or larger tech firms.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 70)\nOperational Status: ACTIVE / MICRO R&D & TRADING SHELL"
+      }
+    ]
+  }
+]

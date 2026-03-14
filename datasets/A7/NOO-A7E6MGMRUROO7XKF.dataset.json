@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-A7E6MGMRUROO7XKF",
+    "noo_source_url": "https://noo.nooxus.com/NOO-A7E6MGMRUROO7XKF/NOO-A7E6MGMRUROO7XKF.json",
+    "local_name": "Jinjiang Huaxing Electronic Components Co., Ltd.",
+    "enterprise_name": "Huaxing Electronics / Auto Parts",
+    "tags": "Legacy_1990s_Vehicle_Parts_Workshop, Micro_Electrical/Auto_Hardware_Mfg, Active_Micro_Subcontractor, Absurd_Registry_Misclassification_(Not_a_Trailer_Maker)",
+    "id": "NOO-A7E6MGMRUROO7XKF-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Jinjiang Huaxing Electronic Components Co., Ltd. (Huaxing Electronics / Auto Parts)\nRegistration No: 91350582611566871R\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: 3,000,000 RMB (Fully Paid-in)\nLocation Context: Jinjiang City, Quanzhou, Fujian (Major Light Industry & Parts Hub)\nClaimed Tags: 'Legacy_1990s_Vehicle_Parts_Workshop, Micro_Electrical/Auto_Hardware_Mfg, Active_Micro_Subcontractor, Absurd_Registry_Misclassification_(Not_a_Trailer_Maker)'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Huaxing Electronics / Auto Parts a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Huaxing Electronics / Auto Parts**\n\n**1. Official Identity**\n- Legal Name: Jinjiang Huaxing Electronic Components Co., Ltd.\n- Registration No.: 91350582611566871R\n- Status: ACTIVE\n- **Business Heritage**: Est. 1993 (33 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-A7E6MGMRUROO7XKF/NOO-A7E6MGMRUROO7XKF.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 79/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-A7E6MGMRUROO7XKF",
+    "noo_source_url": "https://noo.nooxus.com/NOO-A7E6MGMRUROO7XKF/NOO-A7E6MGMRUROO7XKF.json",
+    "local_name": "Jinjiang Huaxing Electronic Components Co., Ltd.",
+    "enterprise_name": "Huaxing Electronics / Auto Parts",
+    "tags": "Legacy_1990s_Vehicle_Parts_Workshop, Micro_Electrical/Auto_Hardware_Mfg, Active_Micro_Subcontractor, Absurd_Registry_Misclassification_(Not_a_Trailer_Maker)",
+    "id": "NOO-A7E6MGMRUROO7XKF-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Jinjiang Huaxing Electronic Components Co., Ltd. (Huaxing Electronics / Auto Parts)\nRegistration No: 91350582611566871R\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: 3,000,000 RMB (Fully Paid-in)\nLocation Context: Jinjiang City, Quanzhou, Fujian (Major Light Industry & Parts Hub)\nClaimed Tags: 'Legacy_1990s_Vehicle_Parts_Workshop, Micro_Electrical/Auto_Hardware_Mfg, Active_Micro_Subcontractor, Absurd_Registry_Misclassification_(Not_a_Trailer_Maker)'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Huaxing Electronics / Auto Parts."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Huaxing Electronics / Auto Parts**\n\n**🏭 Core Offerings**\n1. **Auto & Motorcycle Spare Parts (Likely Electrical/Hardware)**: No description...\n\n**📊 Production Scale Validation**: Active micro-manufacturing capacity. Sustained by a 4-person workforce operating a small-scale facility, backed by a 3M RMB capital base.\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-A7E6MGMRUROO7XKF)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-A7E6MGMRUROO7XKF",
+    "noo_source_url": "https://noo.nooxus.com/NOO-A7E6MGMRUROO7XKF/NOO-A7E6MGMRUROO7XKF.json",
+    "local_name": "Jinjiang Huaxing Electronic Components Co., Ltd.",
+    "enterprise_name": "Huaxing Electronics / Auto Parts",
+    "tags": "Legacy_1990s_Vehicle_Parts_Workshop, Micro_Electrical/Auto_Hardware_Mfg, Active_Micro_Subcontractor, Absurd_Registry_Misclassification_(Not_a_Trailer_Maker)",
+    "id": "NOO-A7E6MGMRUROO7XKF-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: Jinjiang Huaxing Electronic Components Co., Ltd. (Huaxing Electronics / Auto Parts)\nRegistration No: 91350582611566871R\nTrust Tier: L1_REGISTERED (Score: 79)\nCapital: 3,000,000 RMB (Fully Paid-in)\nLocation Context: Jinjiang City, Quanzhou, Fujian (Major Light Industry & Parts Hub)\nClaimed Tags: 'Legacy_1990s_Vehicle_Parts_Workshop, Micro_Electrical/Auto_Hardware_Mfg, Active_Micro_Subcontractor, Absurd_Registry_Misclassification_(Not_a_Trailer_Maker)'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Huaxing Electronics / Auto Parts."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nJinjiang Huaxing Electronic Components Co., Ltd. is a surviving, micro-scale legacy manufacturer highlighting another absurd registry classification. The official database tags it as an 'Automobile Body and Trailer Manufacturer', which is impossible given its 3 million RMB capital and a corrected workforce of only 4 insured employees (2024). While its legal name suggests 'electronic components', its actual business scope, recovered from the 'other_email' field, explicitly states 'manufacturing auto and motorcycle parts'. Established in 1993, this confirms it is a classic 1990s grassroots workshop in Jinjiang. Given the naming paradox, it likely specializes in small, basic electrical/electronic hardware components used in motorcycles or low-end vehicles, surviving as a Tier-4 subcontractor.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 79)\nOperational Status: ACTIVE / MICRO VEHICLE PARTS WORKSHOP"
+      }
+    ]
+  }
+]

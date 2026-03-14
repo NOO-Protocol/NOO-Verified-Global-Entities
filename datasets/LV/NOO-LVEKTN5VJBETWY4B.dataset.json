@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-LVEKTN5VJBETWY4B",
+    "noo_source_url": "https://noo.nooxus.com/NOO-LVEKTN5VJBETWY4B/NOO-LVEKTN5VJBETWY4B.json",
+    "local_name": "苏州康敏维智能装备股份有限公司",
+    "enterprise_name": "Suzhou Kangminwei Intelligent Equipment Co., Ltd.",
+    "tags": "Asset-Light_R&D_Studio, Electronics_Trading_Intermediary, Overstated_Manufacturing_Claims, Micro_Joint-Stock_Structure",
+    "id": "NOO-LVEKTN5VJBETWY4B-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 苏州康敏维智能装备股份有限公司 (Suzhou Kangminwei Intelligent Equipment Co., Ltd.)\nRegistration No: 91320000MA1PCLFJ59\nTrust Tier: L1_REGISTERED (Score: 69)\nCapital: N/A\nLocation Context: Shengpu, Suzhou Industrial Park, Jiangsu (Manufacturing & Tech Hub)\nClaimed Tags: 'Asset-Light_R&D_Studio, Electronics_Trading_Intermediary, Overstated_Manufacturing_Claims, Micro_Joint-Stock_Structure'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Suzhou Kangminwei Intelligent Equipment Co., Ltd. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Suzhou Kangminwei Intelligent Equipment Co., Ltd.**\n\n**1. Official Identity**\n- Legal Name: 苏州康敏维智能装备股份有限公司\n- Registration No.: 91320000MA1PCLFJ59\n- Status: ACTIVE\n- **Business Heritage**: Est. 2017 (9 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-LVEKTN5VJBETWY4B/NOO-LVEKTN5VJBETWY4B.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 69/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-LVEKTN5VJBETWY4B",
+    "noo_source_url": "https://noo.nooxus.com/NOO-LVEKTN5VJBETWY4B/NOO-LVEKTN5VJBETWY4B.json",
+    "local_name": "苏州康敏维智能装备股份有限公司",
+    "enterprise_name": "Suzhou Kangminwei Intelligent Equipment Co., Ltd.",
+    "tags": "Asset-Light_R&D_Studio, Electronics_Trading_Intermediary, Overstated_Manufacturing_Claims, Micro_Joint-Stock_Structure",
+    "id": "NOO-LVEKTN5VJBETWY4B-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 苏州康敏维智能装备股份有限公司 (Suzhou Kangminwei Intelligent Equipment Co., Ltd.)\nRegistration No: 91320000MA1PCLFJ59\nTrust Tier: L1_REGISTERED (Score: 69)\nCapital: N/A\nLocation Context: Shengpu, Suzhou Industrial Park, Jiangsu (Manufacturing & Tech Hub)\nClaimed Tags: 'Asset-Light_R&D_Studio, Electronics_Trading_Intermediary, Overstated_Manufacturing_Claims, Micro_Joint-Stock_Structure'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Suzhou Kangminwei Intelligent Equipment Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Suzhou Kangminwei Intelligent Equipment Co., Ltd.**\n\n**🏭 Core Offerings**\n1. **Sensors & Electronic Equipment**: No description...\n2. **Automotive & New Energy Tech Consulting**: No description...\n\n**📊 Production Scale Validation**: Unknown\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-LVEKTN5VJBETWY4B)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-LVEKTN5VJBETWY4B",
+    "noo_source_url": "https://noo.nooxus.com/NOO-LVEKTN5VJBETWY4B/NOO-LVEKTN5VJBETWY4B.json",
+    "local_name": "苏州康敏维智能装备股份有限公司",
+    "enterprise_name": "Suzhou Kangminwei Intelligent Equipment Co., Ltd.",
+    "tags": "Asset-Light_R&D_Studio, Electronics_Trading_Intermediary, Overstated_Manufacturing_Claims, Micro_Joint-Stock_Structure",
+    "id": "NOO-LVEKTN5VJBETWY4B-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 苏州康敏维智能装备股份有限公司 (Suzhou Kangminwei Intelligent Equipment Co., Ltd.)\nRegistration No: 91320000MA1PCLFJ59\nTrust Tier: L1_REGISTERED (Score: 69)\nCapital: N/A\nLocation Context: Shengpu, Suzhou Industrial Park, Jiangsu (Manufacturing & Tech Hub)\nClaimed Tags: 'Asset-Light_R&D_Studio, Electronics_Trading_Intermediary, Overstated_Manufacturing_Claims, Micro_Joint-Stock_Structure'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Suzhou Kangminwei Intelligent Equipment Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nSuzhou Kangminwei Intelligent Equipment Co., Ltd. presents a contradictory profile typical of a micro-shell company or an early-stage startup with overstated ambitions. Registered as a 'Joint Stock Company (Unlisted)'—a structure normally reserved for larger entities preparing for capital markets—its financial reality is starkly different: a paid-in capital of only 500,000 RMB, just 3 insured employees, and a primary contact via a personal QQ email. Its business scope makes sweeping claims of manufacturing aerospace electronics, automotive control systems, and smart equipment. However, operating from the '2nd Floor of Building 1' in Suzhou Industrial Park, it entirely lacks the physical infrastructure, capital, and workforce to manufacture heavy or high-tech equipment. It most likely functions as an asset-light tech consultancy, a specialized trading intermediary, or an outsourced R&D micro-studio for specific sensor/electronics niches.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 69)\nOperational Status: ACTIVE / ASSET-LIGHT SHELL"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-XFUHNFZGECMDW5ZU",
+    "noo_source_url": "https://noo.nooxus.com/NOO-XFUHNFZGECMDW5ZU/NOO-XFUHNFZGECMDW5ZU.json",
+    "local_name": "南京兴合安电气有限公司",
+    "enterprise_name": "Nanjing Xinghe'an Electric Co., Ltd.",
+    "tags": "Zero-Employee Proxy Shell, Residential Apartment Operation ('Xincun'), Electrical Engineering Subcontracting Proxy, Universal Retail (Hardware, Office Supplies), Debunked 'Electrical Machinery Mfg' Status",
+    "id": "NOO-XFUHNFZGECMDW5ZU-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京兴合安电气有限公司 (Nanjing Xinghe'an Electric Co., Ltd.)\nRegistration No: 91320102562858367M\nTrust Tier: L1_REGISTERED (Score: 74)\nCapital: 500,000 RMB (Fully Paid-in)\nLocation Context: No. 153 Yanwu Xincun, Xuanwu District, Nanjing City (A traditional residential neighborhood complex. Registering here definitively proves it is a paper entity or home-based micro-office, precluding any industrial manufacturing)\nClaimed Tags: 'Zero-Employee Proxy Shell, Residential Apartment Operation ('Xincun'), Electrical Engineering Subcontracting Proxy, Universal Retail (Hardware, Office Supplies), Debunked 'Electrical Machinery Mfg' Status'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Nanjing Xinghe'an Electric Co., Ltd. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Nanjing Xinghe'an Electric Co., Ltd.**\n\n**1. Official Identity**\n- Legal Name: 南京兴合安电气有限公司\n- Registration No.: 91320102562858367M\n- Status: ACTIVE\n- **Business Heritage**: Est. 2010 (16 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-XFUHNFZGECMDW5ZU/NOO-XFUHNFZGECMDW5ZU.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 74/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-XFUHNFZGECMDW5ZU",
+    "noo_source_url": "https://noo.nooxus.com/NOO-XFUHNFZGECMDW5ZU/NOO-XFUHNFZGECMDW5ZU.json",
+    "local_name": "南京兴合安电气有限公司",
+    "enterprise_name": "Nanjing Xinghe'an Electric Co., Ltd.",
+    "tags": "Zero-Employee Proxy Shell, Residential Apartment Operation ('Xincun'), Electrical Engineering Subcontracting Proxy, Universal Retail (Hardware, Office Supplies), Debunked 'Electrical Machinery Mfg' Status",
+    "id": "NOO-XFUHNFZGECMDW5ZU-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京兴合安电气有限公司 (Nanjing Xinghe'an Electric Co., Ltd.)\nRegistration No: 91320102562858367M\nTrust Tier: L1_REGISTERED (Score: 74)\nCapital: 500,000 RMB (Fully Paid-in)\nLocation Context: No. 153 Yanwu Xincun, Xuanwu District, Nanjing City (A traditional residential neighborhood complex. Registering here definitively proves it is a paper entity or home-based micro-office, precluding any industrial manufacturing)\nClaimed Tags: 'Zero-Employee Proxy Shell, Residential Apartment Operation ('Xincun'), Electrical Engineering Subcontracting Proxy, Universal Retail (Hardware, Office Supplies), Debunked 'Electrical Machinery Mfg' Status'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Nanjing Xinghe'an Electric Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Nanjing Xinghe'an Electric Co., Ltd.**\n\n**🏭 Core Offerings**\n1. **Electrical Engineering & System Integration (Proxy)**: No description...\n2. **Electrical Equipment & Hardware**: No description...\n3. **IT Accessories & Office Supplies**: No description...\n\n**📊 Production Scale Validation**: Absolute zero physical manufacturing. With 0 insured employees, a minimal 500k RMB capital, and an address in a residential neighborhood (Yanwu Xincun), the official 'Electrical Machinery Mfg' label is completely debunked. It is a paper-based trading and contracting shell.\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-XFUHNFZGECMDW5ZU)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-XFUHNFZGECMDW5ZU",
+    "noo_source_url": "https://noo.nooxus.com/NOO-XFUHNFZGECMDW5ZU/NOO-XFUHNFZGECMDW5ZU.json",
+    "local_name": "南京兴合安电气有限公司",
+    "enterprise_name": "Nanjing Xinghe'an Electric Co., Ltd.",
+    "tags": "Zero-Employee Proxy Shell, Residential Apartment Operation ('Xincun'), Electrical Engineering Subcontracting Proxy, Universal Retail (Hardware, Office Supplies), Debunked 'Electrical Machinery Mfg' Status",
+    "id": "NOO-XFUHNFZGECMDW5ZU-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京兴合安电气有限公司 (Nanjing Xinghe'an Electric Co., Ltd.)\nRegistration No: 91320102562858367M\nTrust Tier: L1_REGISTERED (Score: 74)\nCapital: 500,000 RMB (Fully Paid-in)\nLocation Context: No. 153 Yanwu Xincun, Xuanwu District, Nanjing City (A traditional residential neighborhood complex. Registering here definitively proves it is a paper entity or home-based micro-office, precluding any industrial manufacturing)\nClaimed Tags: 'Zero-Employee Proxy Shell, Residential Apartment Operation ('Xincun'), Electrical Engineering Subcontracting Proxy, Universal Retail (Hardware, Office Supplies), Debunked 'Electrical Machinery Mfg' Status'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Nanjing Xinghe'an Electric Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nExecuting the SGSC-AI Extremum & Spatial Semantic De-hallucination Model. This dataset was severely infected by a system-level 'Apple Inc.' global OEM hallucination, which has been entirely purged. Returning to the physical ground truth: the official registry categorizes this entity as an 'Electrical Machinery and Equipment Manufacturer'. Applying our finalized De-escalation Formula: [Heavy Asset Mfg Tag] + [Extremum: 0 Employees / 500k RMB Capital] + [Spatial Semantics: 'Yanwu Xincun' Residential Neighborhood] = 100% Fake Manufacturing Shell. The term 'Xincun' specifically designates a traditional residential apartment complex in China. Establishing heavy electrical machinery production inside a residential apartment with zero employees is physically impossible. Dissecting the actual business scope reveals a diverse retailer and paper contractor: it bids on electrical automation projects while concurrently selling everything from low-voltage electrical parts to 'office supplies', 'building materials', and 'IT accessories'. Conclusion: This is a dormant or paper-only 'Zero-Employee Engineering Proxy & Hardware/Office Supplies Shell' operating out of a residential apartment, completely devoid of physical manufacturing operations.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 74)\nOperational Status: ACTIVE / ZERO-EMPLOYEE PROXY & TRADING SHELL"
+      }
+    ]
+  }
+]

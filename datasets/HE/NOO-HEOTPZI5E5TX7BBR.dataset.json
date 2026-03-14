@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-HEOTPZI5E5TX7BBR",
+    "noo_source_url": "https://noo.nooxus.com/NOO-HEOTPZI5E5TX7BBR/NOO-HEOTPZI5E5TX7BBR.json",
+    "local_name": "南京宁聚汽配有限公司",
+    "enterprise_name": "Nanjing Ningju Auto Parts Co., Ltd.",
+    "tags": "Auto_Parts_Retail_&_Wholesale, Zero_Manufacturing_Capacity_(2_Employees), Extreme_Taxonomy_Error_(Not_Automaker), Street-Level_Commercial_Dealership",
+    "id": "NOO-HEOTPZI5E5TX7BBR-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京宁聚汽配有限公司 (Nanjing Ningju Auto Parts Co., Ltd.)\nRegistration No: 91320104MA1X7F3QX9\nTrust Tier: L1_REGISTERED (Score: 69)\nCapital: 300,000 RMB (Paid-in: 173,820 RMB)\nLocation Context: Daming Road, Qinhuai District, Nanjing City (Widely known locally as Nanjing's primary commercial street for auto dealerships, 4S shops, and auto parts retail, physically incompatible with heavy car manufacturing)\nClaimed Tags: 'Auto_Parts_Retail_&_Wholesale, Zero_Manufacturing_Capacity_(2_Employees), Extreme_Taxonomy_Error_(Not_Automaker), Street-Level_Commercial_Dealership'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Nanjing Ningju Auto Parts Co., Ltd. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Nanjing Ningju Auto Parts Co., Ltd.**\n\n**1. Official Identity**\n- Legal Name: 南京宁聚汽配有限公司\n- Registration No.: 91320104MA1X7F3QX9\n- Status: ACTIVE\n- **Business Heritage**: Est. 2018 (8 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-HEOTPZI5E5TX7BBR/NOO-HEOTPZI5E5TX7BBR.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 69/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-HEOTPZI5E5TX7BBR",
+    "noo_source_url": "https://noo.nooxus.com/NOO-HEOTPZI5E5TX7BBR/NOO-HEOTPZI5E5TX7BBR.json",
+    "local_name": "南京宁聚汽配有限公司",
+    "enterprise_name": "Nanjing Ningju Auto Parts Co., Ltd.",
+    "tags": "Auto_Parts_Retail_&_Wholesale, Zero_Manufacturing_Capacity_(2_Employees), Extreme_Taxonomy_Error_(Not_Automaker), Street-Level_Commercial_Dealership",
+    "id": "NOO-HEOTPZI5E5TX7BBR-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京宁聚汽配有限公司 (Nanjing Ningju Auto Parts Co., Ltd.)\nRegistration No: 91320104MA1X7F3QX9\nTrust Tier: L1_REGISTERED (Score: 69)\nCapital: 300,000 RMB (Paid-in: 173,820 RMB)\nLocation Context: Daming Road, Qinhuai District, Nanjing City (Widely known locally as Nanjing's primary commercial street for auto dealerships, 4S shops, and auto parts retail, physically incompatible with heavy car manufacturing)\nClaimed Tags: 'Auto_Parts_Retail_&_Wholesale, Zero_Manufacturing_Capacity_(2_Employees), Extreme_Taxonomy_Error_(Not_Automaker), Street-Level_Commercial_Dealership'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Nanjing Ningju Auto Parts Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Nanjing Ningju Auto Parts Co., Ltd.**\n\n**🏭 Core Offerings**\n1. **Automotive Parts & Accessories (Retail)**: No description...\n\n**📊 Production Scale Validation**: Absolute zero physical manufacturing. Verified by a 2-employee count, 173k RMB micro-capital, a commercial street address, and a scope strictly limited to 'sales'. The 'Complete Vehicle Manufacturing' tag is a catastrophic clerical error.\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-HEOTPZI5E5TX7BBR)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-HEOTPZI5E5TX7BBR",
+    "noo_source_url": "https://noo.nooxus.com/NOO-HEOTPZI5E5TX7BBR/NOO-HEOTPZI5E5TX7BBR.json",
+    "local_name": "南京宁聚汽配有限公司",
+    "enterprise_name": "Nanjing Ningju Auto Parts Co., Ltd.",
+    "tags": "Auto_Parts_Retail_&_Wholesale, Zero_Manufacturing_Capacity_(2_Employees), Extreme_Taxonomy_Error_(Not_Automaker), Street-Level_Commercial_Dealership",
+    "id": "NOO-HEOTPZI5E5TX7BBR-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京宁聚汽配有限公司 (Nanjing Ningju Auto Parts Co., Ltd.)\nRegistration No: 91320104MA1X7F3QX9\nTrust Tier: L1_REGISTERED (Score: 69)\nCapital: 300,000 RMB (Paid-in: 173,820 RMB)\nLocation Context: Daming Road, Qinhuai District, Nanjing City (Widely known locally as Nanjing's primary commercial street for auto dealerships, 4S shops, and auto parts retail, physically incompatible with heavy car manufacturing)\nClaimed Tags: 'Auto_Parts_Retail_&_Wholesale, Zero_Manufacturing_Capacity_(2_Employees), Extreme_Taxonomy_Error_(Not_Automaker), Street-Level_Commercial_Dealership'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Nanjing Ningju Auto Parts Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nThe 'Apple Inc.' corporate hallucination has been mercilessly purged. Nanjing Ningju Auto Parts Co., Ltd. presents the most extreme and almost comical taxonomy error observed: officially classified as 'Automotive Manufacturing / Complete Vehicle Manufacturing', it is, in absolute reality, a micro-retailer of auto parts. The evidence is irrefutable: its business scope contains exactly six words ('Auto parts sales'), its paid-in capital is a mere 173,820 RMB, it has only 2 insured employees, and its address ('No. 174 Daming Road') is located on Nanjing's most famous auto parts and 4S dealership commercial street. A 2-person street shop cannot manufacture entire automobiles. It functions purely as a local 'mom-and-pop' auto parts retail storefront.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 69)\nOperational Status: MICRO AUTO PARTS RETAIL SHOP (NO MFG)"
+      }
+    ]
+  }
+]

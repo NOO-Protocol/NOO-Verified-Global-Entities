@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-EMZJ6CPW6T7EDC3O",
+    "noo_source_url": "https://noo.nooxus.com/NOO-EMZJ6CPW6T7EDC3O/NOO-EMZJ6CPW6T7EDC3O.json",
+    "local_name": "江苏同创研究院有限公司",
+    "enterprise_name": "Jiangsu Toptry Research Institute Co., Ltd.",
+    "tags": "Legacy_PC/IT_Brand_Holding_Shell, Substantial_Historical_Capitalization_(66M_RMB), Dormant_R&D_Institute, Misclassified_as_Active_Manufacturing",
+    "id": "NOO-EMZJ6CPW6T7EDC3O-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 江苏同创研究院有限公司 (Jiangsu Toptry Research Institute Co., Ltd.)\nRegistration No: 9132000071409319XE\nTrust Tier: L1_REGISTERED (Score: 76)\nCapital: N/A\nLocation Context: Xuanwu District, Nanjing, Jiangsu (High-tech Economic Development Zone)\nClaimed Tags: 'Legacy_PC/IT_Brand_Holding_Shell, Substantial_Historical_Capitalization_(66M_RMB), Dormant_R&D_Institute, Misclassified_as_Active_Manufacturing'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Jiangsu Toptry Research Institute Co., Ltd. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Jiangsu Toptry Research Institute Co., Ltd.**\n\n**1. Official Identity**\n- Legal Name: 江苏同创研究院有限公司\n- Registration No.: 9132000071409319XE\n- Status: ACTIVE\n- **Business Heritage**: Est. 1999 (27 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-EMZJ6CPW6T7EDC3O/NOO-EMZJ6CPW6T7EDC3O.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 76/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-EMZJ6CPW6T7EDC3O",
+    "noo_source_url": "https://noo.nooxus.com/NOO-EMZJ6CPW6T7EDC3O/NOO-EMZJ6CPW6T7EDC3O.json",
+    "local_name": "江苏同创研究院有限公司",
+    "enterprise_name": "Jiangsu Toptry Research Institute Co., Ltd.",
+    "tags": "Legacy_PC/IT_Brand_Holding_Shell, Substantial_Historical_Capitalization_(66M_RMB), Dormant_R&D_Institute, Misclassified_as_Active_Manufacturing",
+    "id": "NOO-EMZJ6CPW6T7EDC3O-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 江苏同创研究院有限公司 (Jiangsu Toptry Research Institute Co., Ltd.)\nRegistration No: 9132000071409319XE\nTrust Tier: L1_REGISTERED (Score: 76)\nCapital: N/A\nLocation Context: Xuanwu District, Nanjing, Jiangsu (High-tech Economic Development Zone)\nClaimed Tags: 'Legacy_PC/IT_Brand_Holding_Shell, Substantial_Historical_Capitalization_(66M_RMB), Dormant_R&D_Institute, Misclassified_as_Active_Manufacturing'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Jiangsu Toptry Research Institute Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Jiangsu Toptry Research Institute Co., Ltd.**\n\n**🏭 Core Offerings**\n1. **IT System R&D and Tech Consulting (Dormant)**: No description...\n2. **Computer Hardware & Peripherals (Legacy)**: No description...\n\n**📊 Production Scale Validation**: Unknown\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-EMZJ6CPW6T7EDC3O)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-EMZJ6CPW6T7EDC3O",
+    "noo_source_url": "https://noo.nooxus.com/NOO-EMZJ6CPW6T7EDC3O/NOO-EMZJ6CPW6T7EDC3O.json",
+    "local_name": "江苏同创研究院有限公司",
+    "enterprise_name": "Jiangsu Toptry Research Institute Co., Ltd.",
+    "tags": "Legacy_PC/IT_Brand_Holding_Shell, Substantial_Historical_Capitalization_(66M_RMB), Dormant_R&D_Institute, Misclassified_as_Active_Manufacturing",
+    "id": "NOO-EMZJ6CPW6T7EDC3O-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 江苏同创研究院有限公司 (Jiangsu Toptry Research Institute Co., Ltd.)\nRegistration No: 9132000071409319XE\nTrust Tier: L1_REGISTERED (Score: 76)\nCapital: N/A\nLocation Context: Xuanwu District, Nanjing, Jiangsu (High-tech Economic Development Zone)\nClaimed Tags: 'Legacy_PC/IT_Brand_Holding_Shell, Substantial_Historical_Capitalization_(66M_RMB), Dormant_R&D_Institute, Misclassified_as_Active_Manufacturing'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Jiangsu Toptry Research Institute Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nJiangsu Toptry Research Institute Co., Ltd. bears the distinct hallmarks of an early-generation (1999) Chinese IT enterprise that has transitioned into a dormant capital holding company or 'zombie' research shell. The name 'Toptry' historically references one of China's earliest domestic PC brands. Despite an imposing, fully paid-in capital of 66 Million RMB and an ambitious scope covering 'Computer Hardware R&D and Manufacturing', its current operational metrics are zeroed out: 0 insured employees for 2024. Its registered address in a tech park building ('North 3rd Floor, Building 18') combined with private QQ email contacts suggests that the physical manufacturing or active R&D capabilities have long ceased. It currently exists as an inactive corporate shell, likely retaining intellectual property, legacy government relationships, or historical brand value.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 76)\nOperational Status: ACTIVE (ON PAPER) / DORMANT IT RESEARCH SHELL"
+      }
+    ]
+  }
+]

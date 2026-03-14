@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-TYYDQQLWF6NSLPVQ",
+    "noo_source_url": "https://noo.nooxus.com/NOO-TYYDQQLWF6NSLPVQ/NOO-TYYDQQLWF6NSLPVQ.json",
+    "local_name": "南京泽莉超电器设备有限公司",
+    "enterprise_name": "Nanjing Zelichao Electrical Equipment Co., Ltd.",
+    "tags": "Electrical Assembly Workshop, High/Low Voltage Equipment Repair, Electrical Engineering Contractor, Residential Water & Electricity Installation, Reclassified as 'Engineering & Assembly Shell'",
+    "id": "NOO-TYYDQQLWF6NSLPVQ-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京泽莉超电器设备有限公司 (Nanjing Zelichao Electrical Equipment Co., Ltd.)\nRegistration No: 91320115MA202NBF7E\nTrust Tier: L1_REGISTERED (Score: 70)\nCapital: 2,000,000 RMB (50,000 RMB Paid-in)\nLocation Context: No. 78-6 Wan'an West Road, Dongshan Street, Jiangning District, Nanjing City (A street-level address consistent with a small workshop or contractor's operating base)\nClaimed Tags: 'Electrical Assembly Workshop, High/Low Voltage Equipment Repair, Electrical Engineering Contractor, Residential Water & Electricity Installation, Reclassified as 'Engineering & Assembly Shell''\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Nanjing Zelichao Electrical Equipment Co., Ltd. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Nanjing Zelichao Electrical Equipment Co., Ltd.**\n\n**1. Official Identity**\n- Legal Name: 南京泽莉超电器设备有限公司\n- Registration No.: 91320115MA202NBF7E\n- Status: ACTIVE\n- **Business Heritage**: Est. 2019 (7 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-TYYDQQLWF6NSLPVQ/NOO-TYYDQQLWF6NSLPVQ.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 70/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-TYYDQQLWF6NSLPVQ",
+    "noo_source_url": "https://noo.nooxus.com/NOO-TYYDQQLWF6NSLPVQ/NOO-TYYDQQLWF6NSLPVQ.json",
+    "local_name": "南京泽莉超电器设备有限公司",
+    "enterprise_name": "Nanjing Zelichao Electrical Equipment Co., Ltd.",
+    "tags": "Electrical Assembly Workshop, High/Low Voltage Equipment Repair, Electrical Engineering Contractor, Residential Water & Electricity Installation, Reclassified as 'Engineering & Assembly Shell'",
+    "id": "NOO-TYYDQQLWF6NSLPVQ-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京泽莉超电器设备有限公司 (Nanjing Zelichao Electrical Equipment Co., Ltd.)\nRegistration No: 91320115MA202NBF7E\nTrust Tier: L1_REGISTERED (Score: 70)\nCapital: 2,000,000 RMB (50,000 RMB Paid-in)\nLocation Context: No. 78-6 Wan'an West Road, Dongshan Street, Jiangning District, Nanjing City (A street-level address consistent with a small workshop or contractor's operating base)\nClaimed Tags: 'Electrical Assembly Workshop, High/Low Voltage Equipment Repair, Electrical Engineering Contractor, Residential Water & Electricity Installation, Reclassified as 'Engineering & Assembly Shell''\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Nanjing Zelichao Electrical Equipment Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Nanjing Zelichao Electrical Equipment Co., Ltd.**\n\n**🏭 Core Offerings**\n1. **High/Low Voltage Equipment (Assembly & Repair)**: No description...\n2. **Electrical Engineering & Installation**: No description...\n3. **Residential Utility Installation**: No description...\n\n**📊 Production Scale Validation**: Operations are characterized as a micro assembly workshop and engineering team. With 7 employees but only 50k RMB in paid-in capital, it lacks heavy manufacturing capacity and acts primarily as an installer and assembler.\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-TYYDQQLWF6NSLPVQ)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-TYYDQQLWF6NSLPVQ",
+    "noo_source_url": "https://noo.nooxus.com/NOO-TYYDQQLWF6NSLPVQ/NOO-TYYDQQLWF6NSLPVQ.json",
+    "local_name": "南京泽莉超电器设备有限公司",
+    "enterprise_name": "Nanjing Zelichao Electrical Equipment Co., Ltd.",
+    "tags": "Electrical Assembly Workshop, High/Low Voltage Equipment Repair, Electrical Engineering Contractor, Residential Water & Electricity Installation, Reclassified as 'Engineering & Assembly Shell'",
+    "id": "NOO-TYYDQQLWF6NSLPVQ-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京泽莉超电器设备有限公司 (Nanjing Zelichao Electrical Equipment Co., Ltd.)\nRegistration No: 91320115MA202NBF7E\nTrust Tier: L1_REGISTERED (Score: 70)\nCapital: 2,000,000 RMB (50,000 RMB Paid-in)\nLocation Context: No. 78-6 Wan'an West Road, Dongshan Street, Jiangning District, Nanjing City (A street-level address consistent with a small workshop or contractor's operating base)\nClaimed Tags: 'Electrical Assembly Workshop, High/Low Voltage Equipment Repair, Electrical Engineering Contractor, Residential Water & Electricity Installation, Reclassified as 'Engineering & Assembly Shell''\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Nanjing Zelichao Electrical Equipment Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nNanjing Zelichao Electrical Equipment Co., Ltd. presents a nuanced case requiring careful forensic interpretation. Categorized under 'Electrical Machinery and Equipment Manufacturing', it boasts 7 insured employees, indicating a genuine small operational team. However, its paid-in capital is critically low at just 50,000 RMB. The registered address—'No. 78-6 Wan'an West Road'—points to a street-level commercial or light-industrial unit rather than a heavy manufacturing plant. A close review of its business scope clarifies its actual position: while it claims 'manufacturing' of switch control equipment and box-type substations, its low capital and street-level location strongly suggest it operates as a small-scale electrical assembly workshop, engineering contractor, and repair center. The presence of 'residential water and electricity installation', 'landscaping engineering', and 'maintenance services' further cements its identity as an electrical engineering subcontractor and installation team rather than a primary equipment manufacturer.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 70)\nOperational Status: ACTIVE / ELECTRICAL CONTRACTOR & ASSEMBLY WORKSHOP"
+      }
+    ]
+  }
+]

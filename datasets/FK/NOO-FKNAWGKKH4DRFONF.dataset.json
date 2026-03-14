@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-FKNAWGKKH4DRFONF",
+    "noo_source_url": "https://noo.nooxus.com/NOO-FKNAWGKKH4DRFONF/NOO-FKNAWGKKH4DRFONF.json",
+    "local_name": "江苏华驰实业有限公司",
+    "enterprise_name": "Jiangsu Huachi Industry Co., Ltd.",
+    "tags": "Defunct_Omnibus_Trading_Shell, High_Capitalization_(48M_RMB_Paid-in), Zero_Active_Workforce_(0_Employees), Urban_CBD_Registration, Extreme_Registry_Misclassification_('Vehicle_Mfg')",
+    "id": "NOO-FKNAWGKKH4DRFONF-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 江苏华驰实业有限公司 (Jiangsu Huachi Industry Co., Ltd.)\nRegistration No: 913200007802705611\nTrust Tier: L1_REGISTERED (Score: 76)\nCapital: 48,000,000 RMB (Fully Paid-in)\nLocation Context: Jianye District, Nanjing City, Jiangsu Province (Jiangdong Middle Road is a core commercial and financial CBD, highly incompatible with heavy manufacturing)\nClaimed Tags: 'Defunct_Omnibus_Trading_Shell, High_Capitalization_(48M_RMB_Paid-in), Zero_Active_Workforce_(0_Employees), Urban_CBD_Registration, Extreme_Registry_Misclassification_('Vehicle_Mfg')'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Jiangsu Huachi Industry Co., Ltd. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Jiangsu Huachi Industry Co., Ltd.**\n\n**1. Official Identity**\n- Legal Name: 江苏华驰实业有限公司\n- Registration No.: 913200007802705611\n- Status: ACTIVE\n- **Business Heritage**: Est. 2005 (21 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-FKNAWGKKH4DRFONF/NOO-FKNAWGKKH4DRFONF.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 76/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-FKNAWGKKH4DRFONF",
+    "noo_source_url": "https://noo.nooxus.com/NOO-FKNAWGKKH4DRFONF/NOO-FKNAWGKKH4DRFONF.json",
+    "local_name": "江苏华驰实业有限公司",
+    "enterprise_name": "Jiangsu Huachi Industry Co., Ltd.",
+    "tags": "Defunct_Omnibus_Trading_Shell, High_Capitalization_(48M_RMB_Paid-in), Zero_Active_Workforce_(0_Employees), Urban_CBD_Registration, Extreme_Registry_Misclassification_('Vehicle_Mfg')",
+    "id": "NOO-FKNAWGKKH4DRFONF-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 江苏华驰实业有限公司 (Jiangsu Huachi Industry Co., Ltd.)\nRegistration No: 913200007802705611\nTrust Tier: L1_REGISTERED (Score: 76)\nCapital: 48,000,000 RMB (Fully Paid-in)\nLocation Context: Jianye District, Nanjing City, Jiangsu Province (Jiangdong Middle Road is a core commercial and financial CBD, highly incompatible with heavy manufacturing)\nClaimed Tags: 'Defunct_Omnibus_Trading_Shell, High_Capitalization_(48M_RMB_Paid-in), Zero_Active_Workforce_(0_Employees), Urban_CBD_Registration, Extreme_Registry_Misclassification_('Vehicle_Mfg')'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Jiangsu Huachi Industry Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Jiangsu Huachi Industry Co., Ltd.**\n\n**🏭 Core Offerings**\n1. **Bulk Commodity Trading (Defunct)**: No description...\n2. **Advertising Services (Defunct)**: No description...\n3. **Corporate Shell**: No description...\n\n**📊 Production Scale Validation**: Absolute zero physical manufacturing capacity. The 0-employee count and CBD office address completely invalidate the absurd 'Automobile Complete Vehicle Manufacturer' registry tag. The 48 Million RMB capital is likely held as a financial asset or for historical trading qualifications.\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-FKNAWGKKH4DRFONF)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-FKNAWGKKH4DRFONF",
+    "noo_source_url": "https://noo.nooxus.com/NOO-FKNAWGKKH4DRFONF/NOO-FKNAWGKKH4DRFONF.json",
+    "local_name": "江苏华驰实业有限公司",
+    "enterprise_name": "Jiangsu Huachi Industry Co., Ltd.",
+    "tags": "Defunct_Omnibus_Trading_Shell, High_Capitalization_(48M_RMB_Paid-in), Zero_Active_Workforce_(0_Employees), Urban_CBD_Registration, Extreme_Registry_Misclassification_('Vehicle_Mfg')",
+    "id": "NOO-FKNAWGKKH4DRFONF-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 江苏华驰实业有限公司 (Jiangsu Huachi Industry Co., Ltd.)\nRegistration No: 913200007802705611\nTrust Tier: L1_REGISTERED (Score: 76)\nCapital: 48,000,000 RMB (Fully Paid-in)\nLocation Context: Jianye District, Nanjing City, Jiangsu Province (Jiangdong Middle Road is a core commercial and financial CBD, highly incompatible with heavy manufacturing)\nClaimed Tags: 'Defunct_Omnibus_Trading_Shell, High_Capitalization_(48M_RMB_Paid-in), Zero_Active_Workforce_(0_Employees), Urban_CBD_Registration, Extreme_Registry_Misclassification_('Vehicle_Mfg')'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Jiangsu Huachi Industry Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nJiangsu Huachi Industry Co., Ltd. presents an extreme case of registry hallucination, masquerading as an 'Automobile Complete Vehicle Manufacturer'. The 'Apple Inc.' profile has been entirely eradicated. Registered in the heart of Nanjing's CBD (Jiangdong Middle Road) with a massive 48 Million RMB paid-in capital, its physical reality brutally contradicts its official classification: as of 2023, it reports exactly 0 insured employees. Building entire automobiles with zero staff in a downtown commercial district is physically impossible. Furthermore, its verified business scope reveals it doesn't even sell cars; it is an omnibus trading shell focused on 'metal materials, minerals, chemicals, and paper products' alongside 'advertising services'. The 'Huachi' (meaning 'Hua-Auto' or 'Hua-Drive') name likely confused the registry. It is definitively a highly capitalized, dormant commercial trading shell or capital holding vehicle, possessing absolutely no manufacturing capacity.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 76)\nOperational Status: DORMANT SHELL / OMNIBUS TRADING VEHICLE"
+      }
+    ]
+  }
+]

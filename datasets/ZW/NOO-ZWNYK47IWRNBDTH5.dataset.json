@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-ZWNYK47IWRNBDTH5",
+    "noo_source_url": "https://noo.nooxus.com/NOO-ZWNYK47IWRNBDTH5/NOO-ZWNYK47IWRNBDTH5.json",
+    "local_name": "南京德联精密技术有限公司",
+    "enterprise_name": "Nanjing Delian Precision Technology Co., Ltd.",
+    "tags": "Micro-Scale Precision Machining, Tooling, Molds & Fixtures Production, Non-Standard Parts Fabrication, Debunked 'Electronic Device Mfg' Status, Heavy-Equipment CNC Subcontractor",
+    "id": "NOO-ZWNYK47IWRNBDTH5-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京德联精密技术有限公司 (Nanjing Delian Precision Technology Co., Ltd.)\nRegistration No: 91320115MA1WHQPE50\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 5,000,000 RMB (Paid-in: 1,470,000 RMB)\nLocation Context: No. 2 Minzu Avenue, Hushu Sub-district, Jiangning District, Nanjing City (A rural township address, indicating a physical factory or workshop suited for heavy machinery like CNCs and lathes, entirely distinct from cleanroom electronics assembly)\nClaimed Tags: 'Micro-Scale Precision Machining, Tooling, Molds & Fixtures Production, Non-Standard Parts Fabrication, Debunked 'Electronic Device Mfg' Status, Heavy-Equipment CNC Subcontractor'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Nanjing Delian Precision Technology Co., Ltd. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Nanjing Delian Precision Technology Co., Ltd.**\n\n**1. Official Identity**\n- Legal Name: 南京德联精密技术有限公司\n- Registration No.: 91320115MA1WHQPE50\n- Status: ACTIVE\n- **Business Heritage**: Est. 2018 (8 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-ZWNYK47IWRNBDTH5/NOO-ZWNYK47IWRNBDTH5.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 71/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-ZWNYK47IWRNBDTH5",
+    "noo_source_url": "https://noo.nooxus.com/NOO-ZWNYK47IWRNBDTH5/NOO-ZWNYK47IWRNBDTH5.json",
+    "local_name": "南京德联精密技术有限公司",
+    "enterprise_name": "Nanjing Delian Precision Technology Co., Ltd.",
+    "tags": "Micro-Scale Precision Machining, Tooling, Molds & Fixtures Production, Non-Standard Parts Fabrication, Debunked 'Electronic Device Mfg' Status, Heavy-Equipment CNC Subcontractor",
+    "id": "NOO-ZWNYK47IWRNBDTH5-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京德联精密技术有限公司 (Nanjing Delian Precision Technology Co., Ltd.)\nRegistration No: 91320115MA1WHQPE50\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 5,000,000 RMB (Paid-in: 1,470,000 RMB)\nLocation Context: No. 2 Minzu Avenue, Hushu Sub-district, Jiangning District, Nanjing City (A rural township address, indicating a physical factory or workshop suited for heavy machinery like CNCs and lathes, entirely distinct from cleanroom electronics assembly)\nClaimed Tags: 'Micro-Scale Precision Machining, Tooling, Molds & Fixtures Production, Non-Standard Parts Fabrication, Debunked 'Electronic Device Mfg' Status, Heavy-Equipment CNC Subcontractor'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Nanjing Delian Precision Technology Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Nanjing Delian Precision Technology Co., Ltd.**\n\n**🏭 Core Offerings**\n1. **Precision CNC Machining**: No description...\n2. **Molds, Tooling & Fixtures**: No description...\n3. **Non-Standard Custom Parts**: No description...\n\n**📊 Production Scale Validation**: Operates real, equipment-heavy physical capacity. The 6-employee count paired with 1.47M RMB paid-in capital suggests a highly mechanized setup (e.g., CNC machining centers) rather than manual labor. Completely lacks the infrastructure for advanced 'Electronic Device' manufacturing.\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-ZWNYK47IWRNBDTH5)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-ZWNYK47IWRNBDTH5",
+    "noo_source_url": "https://noo.nooxus.com/NOO-ZWNYK47IWRNBDTH5/NOO-ZWNYK47IWRNBDTH5.json",
+    "local_name": "南京德联精密技术有限公司",
+    "enterprise_name": "Nanjing Delian Precision Technology Co., Ltd.",
+    "tags": "Micro-Scale Precision Machining, Tooling, Molds & Fixtures Production, Non-Standard Parts Fabrication, Debunked 'Electronic Device Mfg' Status, Heavy-Equipment CNC Subcontractor",
+    "id": "NOO-ZWNYK47IWRNBDTH5-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京德联精密技术有限公司 (Nanjing Delian Precision Technology Co., Ltd.)\nRegistration No: 91320115MA1WHQPE50\nTrust Tier: L1_REGISTERED (Score: 71)\nCapital: 5,000,000 RMB (Paid-in: 1,470,000 RMB)\nLocation Context: No. 2 Minzu Avenue, Hushu Sub-district, Jiangning District, Nanjing City (A rural township address, indicating a physical factory or workshop suited for heavy machinery like CNCs and lathes, entirely distinct from cleanroom electronics assembly)\nClaimed Tags: 'Micro-Scale Precision Machining, Tooling, Molds & Fixtures Production, Non-Standard Parts Fabrication, Debunked 'Electronic Device Mfg' Status, Heavy-Equipment CNC Subcontractor'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Nanjing Delian Precision Technology Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nTriggering the system-level industrial mismatch and 'Precision Machining' prototype mapping probe. The highly incongruous Apple consumer electronics OEM template in the original data has been completely formatted. This enterprise, named 'Delian Precision Technology,' was categorized into the high-end 'Electronic Device Manufacturing' in official classifications. Although its license indeed stuffed in words like 'communication electronic equipment, electronic products,' the forensic logic engine quickly grasped its bottom-most physical genes: 6 insured employees, 1.47 million paid-in capital. The spatial coordinates are located at 'No. 2 Minzu Avenue, Hushu Sub-district, Jiangning District.' 'Hushu Sub-district' is a typical rural industrial belt, and the 1.47 million paid-in capital for a 6-person team is an extremely typical 'heavy equipment, light manpower' configuration signal (just enough to buy one or two imported CNC machining centers or CNC machine tools). The probe mercilessly stripped away the internet halo of 'electronic product R&D,' locking onto the very beginning and most heavy-asset action of its license: 'manufacturing of mechanical equipment components, molds, tooling fixtures, and non-standard components.' The truth has a strong metallic texture: this is absolutely not an electronic device manufacturing plant, but a pure 6-Employee Precision Machining & Tooling Workshop located in a rural town. The boss rented a workshop in Hushu, invested over a million to buy machine tools, and leading a few experienced masters, specializes in taking 'precision hardware parts, non-standard parts, molds' processing orders outsourced by large factories. Although micro in scale, it is the most hardcore fundamental cornerstone of the manufacturing industry. The official 'Electronic Device' tag has been demoted and reset to 'Precision Machining.'\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 71)\nOperational Status: ACTIVE / MICRO-SCALE CNC MACHINING & TOOLING WORKSHOP"
+      }
+    ]
+  }
+]

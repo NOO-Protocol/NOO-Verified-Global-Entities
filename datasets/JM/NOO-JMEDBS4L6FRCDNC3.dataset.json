@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-JMEDBS4L6FRCDNC3",
+    "noo_source_url": "https://noo.nooxus.com/NOO-JMEDBS4L6FRCDNC3/NOO-JMEDBS4L6FRCDNC3.json",
+    "local_name": "南京安氏领信科技发展有限公司",
+    "enterprise_name": "Nanjing Anshi Lingxin Technology Development Co., Ltd.",
+    "tags": "Subsidiary_of_Cybersecurity_Group_(Linktrust), Asset-Light_IT_Sales/Holding_Shell, Dormant_Regional_Node, Gross_Misclassification_(Not_Manufacturing)",
+    "id": "NOO-JMEDBS4L6FRCDNC3-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京安氏领信科技发展有限公司 (Nanjing Anshi Lingxin Technology Development Co., Ltd.)\nRegistration No: 9132010067904106XM\nTrust Tier: L1_REGISTERED (Score: 73)\nCapital: N/A\nLocation Context: Jianye District, Nanjing, Jiangsu (CBD Commercial High-Rise)\nClaimed Tags: 'Subsidiary_of_Cybersecurity_Group_(Linktrust), Asset-Light_IT_Sales/Holding_Shell, Dormant_Regional_Node, Gross_Misclassification_(Not_Manufacturing)'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Nanjing Anshi Lingxin Technology Development Co., Ltd. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Nanjing Anshi Lingxin Technology Development Co., Ltd.**\n\n**1. Official Identity**\n- Legal Name: 南京安氏领信科技发展有限公司\n- Registration No.: 9132010067904106XM\n- Status: ACTIVE\n- **Business Heritage**: Est. 2008 (18 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-JMEDBS4L6FRCDNC3/NOO-JMEDBS4L6FRCDNC3.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 73/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-JMEDBS4L6FRCDNC3",
+    "noo_source_url": "https://noo.nooxus.com/NOO-JMEDBS4L6FRCDNC3/NOO-JMEDBS4L6FRCDNC3.json",
+    "local_name": "南京安氏领信科技发展有限公司",
+    "enterprise_name": "Nanjing Anshi Lingxin Technology Development Co., Ltd.",
+    "tags": "Subsidiary_of_Cybersecurity_Group_(Linktrust), Asset-Light_IT_Sales/Holding_Shell, Dormant_Regional_Node, Gross_Misclassification_(Not_Manufacturing)",
+    "id": "NOO-JMEDBS4L6FRCDNC3-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京安氏领信科技发展有限公司 (Nanjing Anshi Lingxin Technology Development Co., Ltd.)\nRegistration No: 9132010067904106XM\nTrust Tier: L1_REGISTERED (Score: 73)\nCapital: N/A\nLocation Context: Jianye District, Nanjing, Jiangsu (CBD Commercial High-Rise)\nClaimed Tags: 'Subsidiary_of_Cybersecurity_Group_(Linktrust), Asset-Light_IT_Sales/Holding_Shell, Dormant_Regional_Node, Gross_Misclassification_(Not_Manufacturing)'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Nanjing Anshi Lingxin Technology Development Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Nanjing Anshi Lingxin Technology Development Co., Ltd.**\n\n**🏭 Core Offerings**\n1. **Cybersecurity Software & IT Services (Linktrust Affiliate)**: No description...\n\n**📊 Production Scale Validation**: Unknown\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-JMEDBS4L6FRCDNC3)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-JMEDBS4L6FRCDNC3",
+    "noo_source_url": "https://noo.nooxus.com/NOO-JMEDBS4L6FRCDNC3/NOO-JMEDBS4L6FRCDNC3.json",
+    "local_name": "南京安氏领信科技发展有限公司",
+    "enterprise_name": "Nanjing Anshi Lingxin Technology Development Co., Ltd.",
+    "tags": "Subsidiary_of_Cybersecurity_Group_(Linktrust), Asset-Light_IT_Sales/Holding_Shell, Dormant_Regional_Node, Gross_Misclassification_(Not_Manufacturing)",
+    "id": "NOO-JMEDBS4L6FRCDNC3-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京安氏领信科技发展有限公司 (Nanjing Anshi Lingxin Technology Development Co., Ltd.)\nRegistration No: 9132010067904106XM\nTrust Tier: L1_REGISTERED (Score: 73)\nCapital: N/A\nLocation Context: Jianye District, Nanjing, Jiangsu (CBD Commercial High-Rise)\nClaimed Tags: 'Subsidiary_of_Cybersecurity_Group_(Linktrust), Asset-Light_IT_Sales/Holding_Shell, Dormant_Regional_Node, Gross_Misclassification_(Not_Manufacturing)'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Nanjing Anshi Lingxin Technology Development Co., Ltd.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nNanjing Anshi Lingxin Technology Development Co., Ltd. presents a highly accurate profile of a dormant, asset-light IT subsidiary or branch office shell. Despite an official registry classification of 'Electronic Device Manufacturing', its corporate email ('@linktrust.com.cn') firmly links it to 'Linktrust' (安氏领信), a known Chinese cybersecurity and software firm. Its registered address in 'Room 2905' of a high-rise in Nanjing's Jianye District, combined with an active insured employee count of exactly 0 in 2024, definitively confirms it operates no physical manufacturing lines. While its stated scope mentions hardware/software production, it actually functions as a dormant regional holding shell, sales node, or IP repository for its parent cybersecurity group.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 73)\nOperational Status: ACTIVE (ON PAPER) / DORMANT SUBSIDIARY SHELL"
+      }
+    ]
+  }
+]

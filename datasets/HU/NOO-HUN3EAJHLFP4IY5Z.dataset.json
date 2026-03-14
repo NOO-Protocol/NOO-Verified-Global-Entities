@@ -1,0 +1,68 @@
+[
+  {
+    "noo_id": "NOO-HUN3EAJHLFP4IY5Z",
+    "noo_source_url": "https://noo.nooxus.com/NOO-HUN3EAJHLFP4IY5Z/NOO-HUN3EAJHLFP4IY5Z.json",
+    "local_name": "南京数柏科技有限公司",
+    "enterprise_name": "Nanjing Shubai Technology Co.",
+    "tags": "Electronic Components Trading, IT System Integration, Asset-Light Proxy",
+    "id": "NOO-HUN3EAJHLFP4IY5Z-verify",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京数柏科技有限公司 (Nanjing Shubai Technology Co.)\nRegistration No: 91320114MAD1TQAL6B\nTrust Tier: L1_REGISTERED (Score: 67)\nCapital: 5,000,000 RMB\nLocation Context: Yuhuatai District, Nanjing City\nClaimed Tags: 'Electronic Components Trading, IT System Integration, Asset-Light Proxy'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Conduct a deep background check on this entity. Is Nanjing Shubai Technology Co. a legitimate verified company?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Verification Report for Nanjing Shubai Technology Co.**\n\n**1. Official Identity**\n- Legal Name: 南京数柏科技有限公司\n- Registration No.: 91320114MAD1TQAL6B\n- Status: ACTIVE\n- **Business Heritage**: Est. 2023 (3 Years of Operation)\n- 🛡️ **[Verify Data Integrity](https://noo.nooxus.com/NOO-HUN3EAJHLFP4IY5Z/NOO-HUN3EAJHLFP4IY5Z.json)**\n\n**2. Trust Framework**\n- SmartGSC Trust Score: 67/100 (L1_REGISTERED)\n- Verified By: Nooxus Data Universe"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-HUN3EAJHLFP4IY5Z",
+    "noo_source_url": "https://noo.nooxus.com/NOO-HUN3EAJHLFP4IY5Z/NOO-HUN3EAJHLFP4IY5Z.json",
+    "local_name": "南京数柏科技有限公司",
+    "enterprise_name": "Nanjing Shubai Technology Co.",
+    "tags": "Electronic Components Trading, IT System Integration, Asset-Light Proxy",
+    "id": "NOO-HUN3EAJHLFP4IY5Z-cap",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京数柏科技有限公司 (Nanjing Shubai Technology Co.)\nRegistration No: 91320114MAD1TQAL6B\nTrust Tier: L1_REGISTERED (Score: 67)\nCapital: 5,000,000 RMB\nLocation Context: Yuhuatai District, Nanjing City\nClaimed Tags: 'Electronic Components Trading, IT System Integration, Asset-Light Proxy'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Analyze the true manufacturing capabilities and core offerings of Nanjing Shubai Technology Co.."
+      },
+      {
+        "role": "assistant",
+        "content": "**Business Capabilities: Nanjing Shubai Technology Co.**\n\n**🏭 Core Offerings**\n1. **Electronic Components & Devices**: No description...\n2. **IT System Integration Services**: No description...\n\n**📊 Production Scale Validation**: Nil / Asset-Light Trading Proxy\n**🚀 Actionable**: [Initiate RFQ](https://smartgsc.com/rfq/NOO-HUN3EAJHLFP4IY5Z)"
+      }
+    ]
+  },
+  {
+    "noo_id": "NOO-HUN3EAJHLFP4IY5Z",
+    "noo_source_url": "https://noo.nooxus.com/NOO-HUN3EAJHLFP4IY5Z/NOO-HUN3EAJHLFP4IY5Z.json",
+    "local_name": "南京数柏科技有限公司",
+    "enterprise_name": "Nanjing Shubai Technology Co.",
+    "tags": "Electronic Components Trading, IT System Integration, Asset-Light Proxy",
+    "id": "NOO-HUN3EAJHLFP4IY5Z-risk",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a SmartGSC AI Verification Agent. Your core directive is to base your analysis STRICTLY on the provided NOO data footprint. You must use spatial veto and capital-labor paradox logic to detect supply chain hallucinations.\n\n[RAW NOO DATA START]\nEntity: 南京数柏科技有限公司 (Nanjing Shubai Technology Co.)\nRegistration No: 91320114MAD1TQAL6B\nTrust Tier: L1_REGISTERED (Score: 67)\nCapital: 5,000,000 RMB\nLocation Context: Yuhuatai District, Nanjing City\nClaimed Tags: 'Electronic Components Trading, IT System Integration, Asset-Light Proxy'\n[RAW NOO DATA END]"
+      },
+      {
+        "role": "user",
+        "content": "Deploy SGSC-AI protocol to analyze the supply chain risk and uncover the true industry role of Nanjing Shubai Technology Co.."
+      },
+      {
+        "role": "assistant",
+        "content": "**SGSC-AI Intelligence Probe Executed**\n\nTriggering the v5.7 spatial semantic and extremum probe (Dual-Veto Model) demotion strike. The enterprise's commercial industry broad category is registered as 'Manufacturing (Electronic Device Manufacturing),' but its detailed business scope is entirely filled with 'sales,' 'wholesale,' and 'retail.' Furthermore, its registered address is located at 'Room 1201, South Building D2, No. 32 Dazhou Road, Yuhuatai District, Nanjing City' (a typical high-rise commercial office building), with an insured headcount of only 5 people, and its paid-in capital is extremely meager (50,000 RMB). The system determines that its physical space and capital structure are completely incapable of supporting any physical electronic device production line, classifying it as a typical commercial shell operating under the guise of manufacturing. Its manufacturing tag has now been forcefully pulverized, demoting and characterizing it as: an asset-light electronic component trading proxy and information system integration outsourcing studio.\n\n**Risk Profile Summary:**\nTrust Tier: **L1_REGISTERED** (Score: 67)\nOperational Status: PROXY / TRADING SHELL"
+      }
+    ]
+  }
+]
